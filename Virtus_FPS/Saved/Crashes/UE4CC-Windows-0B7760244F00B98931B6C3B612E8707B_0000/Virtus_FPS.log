@@ -1,0 +1,1345 @@
+﻿Log file open, 10/22/17 21:54:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Virtus_FPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1338135520) SRandInit(1338135520).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219956
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.22-19.54.52:249][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.22-19.54.52:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.22-19.54.52:265][  0]LogInit: Computer: SEAN-PC
+[2017.10.22-19.54.52:265][  0]LogInit: User: AMD
+[2017.10.22-19.54.52:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.22-19.54.52:265][  0]LogInit: High frequency timer resolution =3.919475 MHz
+[2017.10.22-19.54.52:265][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.22-19.54.52:266][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-19.54.52:266][  0]LogMemory: Process Physical Memory: 278.69 MB used, 278.69 MB peak
+[2017.10.22-19.54.52:266][  0]LogMemory: Process Virtual Memory: 274.57 MB used, 274.57 MB peak
+[2017.10.22-19.54.52:266][  0]LogMemory: Physical Memory: 5619.26 MB used,  2470.23 MB free, 8089.49 MB total
+[2017.10.22-19.54.52:266][  0]LogMemory: Virtual Memory: 669.21 MB used,  2470.23 MB free, 134217728.00 MB total
+[2017.10.22-19.54.52:581][  0]LogInit: Using OS detected language (en-US).
+[2017.10.22-19.54.52:581][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.22-19.54.52:585][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.22-19.54.53:515][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.22-19.54.53:535][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 / HD 7900 Series' (Feature Level 11_0)
+[2017.10.22-19.54.53:535][  0]LogD3D11RHI:       3053/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.10.22-19.54.53:553][  0]LogD3D11RHI:    1. 'AMD Radeon R9 200 / HD 7900 Series' (Feature Level 11_0)
+[2017.10.22-19.54.53:553][  0]LogD3D11RHI:       3053/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.10.22-19.54.53:555][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.22-19.54.53:555][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.22-19.54.53:555][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.22-19.54.53:561][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.22-19.54.53:562][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.22-19.54.53:562][  0]LogWindows: EnumDisplayDevices:
+[2017.10.22-19.54.53:562][  0]LogWindows:    0. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:1)
+[2017.10.22-19.54.53:562][  0]LogWindows:    1. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:562][  0]LogWindows:    2. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:563][  0]LogWindows:    3. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:563][  0]LogWindows:    4. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:563][  0]LogWindows:    5. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:564][  0]LogWindows:    6. 'AMD Radeon R9 200 / HD 7900 Series' (P:1 D:1)
+[2017.10.22-19.54.53:564][  0]LogWindows:    7. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:564][  0]LogWindows:    8. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:565][  0]LogWindows:    9. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:565][  0]LogWindows:    10. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:566][  0]LogWindows:    11. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.22-19.54.53:566][  0]LogWindows: DebugString: FoundDriverCount:12 
+[2017.10.22-19.54.53:566][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 / HD 7900 Series
+[2017.10.22-19.54.53:566][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.162.4, unified:22.19.162.4)
+[2017.10.22-19.54.53:566][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2017.10.22-19.54.53:566][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.22-19.54.53:906][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.22-19.54.53:922][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.10.22-19.54.53:924][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Intermediate/Shaders/WorkingDirectory/13116/).
+[2017.10.22-19.54.53:924][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AMD/AppData/Local/Temp/UnrealShaderWorkingDir/6E4BDC6D4CF3E0C8FAD892B26D6B0F16/'.
+[2017.10.22-19.54.53:924][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.22-19.54.55:377][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.22-19.54.55:463][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.22-19.54.55:551][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.22-19.54.55:643][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.22-19.54.55:732][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.22-19.54.55:820][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.22-19.54.55:907][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.22-19.54.55:998][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.22-19.54.56:078][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.22-19.54.56:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.22-19.54.56:256][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.22-19.54.56:339][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.22-19.54.56:423][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.22-19.54.56:511][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.22-19.54.56:598][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.22-19.54.56:772][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.22-19.54.56:772][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.22-19.54.56:840][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.22-19.54.56:989][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.22-19.54.57:045][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.22-19.54.57:132][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.22-19.54.57:220][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.22-19.54.57:309][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.22-19.54.57:400][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.22-19.54.57:400][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.22-19.54.58:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.22-19.54.58:475][  0]LogDerivedDataCache: Loaded boot cache 0.18s 93MB C:/Users/AMD/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.22-19.54.58:475][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AMD/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.22-19.54.58:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/Virtus_FPS/Virtus_FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.22-19.54.58:475][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.22-19.54.58:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/Virtus_FPS/Virtus_FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.22-19.54.58:476][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.22-19.54.58:506][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.22-19.54.58:518][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AMD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.22-19.54.58:534][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.22-19.54.58:535][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.22-19.54.58:535][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.22-19.54.58:535][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.22-19.54.58:924][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2017.10.22-19.54.59:125][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.22-19.54.59:781][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.22-19.54.59:852][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.22-19.54.59:852][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.22-19.54.59:852][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.22-19.54.59:852][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.22-19.54.59:852][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.22-19.54.59:854][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.22-19.55.00:526][  0]LogNetVersion: Virtus_FPS , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 88762100)
+[2017.10.22-19.55.00:839][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.054895 seconds
+[2017.10.22-19.55.00:847][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.22-19.55.00:847][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.22-19.55.00:847][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.22-19.55.00:960][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.22-19.55.05:039][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.22-19.55.05:113][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.22-19.55.06:174][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.22-19.55.06:838][  0]SourceControl: Source control is disabled
+[2017.10.22-19.55.06:838][  0]SourceControl: Source control is disabled
+[2017.10.22-19.55.06:929][  0]SourceControl: Source control is disabled
+[2017.10.22-19.55.07:017][  0]SourceControl: Source control is disabled
+[2017.10.22-19.55.08:069][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.22-19.55.08:506][  0]LogOcInput: OculusInput pre-init called
+[2017.10.22-19.55.08:952][  0]LogEngine: Initializing Engine...
+[2017.10.22-19.55.08:954][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.22-19.55.09:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.22-19.55.09:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.22-19.55.09:549][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.22-19.55.09:596][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-19.55.09:633][  0]LogInit: FAudioDevice initialized.
+[2017.10.22-19.55.09:778][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/AMD/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.22-19.55.09:824][  0]LogInit: Texture streaming: Enabled
+[2017.10.22-19.55.10:038][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.22-19.55.10:430][  0]LogInit: Transaction tracking system initialized
+[2017.10.22-19.55.10:993][  0]BlueprintLog: New page: Editor Load
+[2017.10.22-19.55.12:676][  0]LocalizationService: Localization service is disabled
+[2017.10.22-19.55.13:921][  0]LogConsoleResponse: Display: 
+[2017.10.22-19.55.14:192][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/' took 0.01s
+[2017.10.22-19.55.14:193][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.22-19.55.14:193][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.22-19.55.14:193][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.22-19.55.16:098][  0]SourceControl: Source control is disabled
+[2017.10.22-19.55.16:098][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.22-19.55.16:099][  0]LightingResults: New page: Lighting Build
+[2017.10.22-19.55.16:174][  0]MapCheck: New page: Map Check
+[2017.10.22-19.55.16:174][  0]LightingResults: New page: Lighting Build
+[2017.10.22-19.55.16:459][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.22-19.55.16:466][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.22-19.55.16:511][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.22-19.55.16:584][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.749ms to complete.
+[2017.10.22-19.55.16:584][  0]LogFileHelpers: Loading map 'Template_Default' took 0.487
+[2017.10.22-19.55.16:656][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.22-19.55.16:889][  0]LogCollectionManager: Loaded 0 collections in 0.002381 seconds
+[2017.10.22-19.55.17:034][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Collections/' took 0.01s
+[2017.10.22-19.55.17:034][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Developers/AMD/Collections/' took 0.01s
+[2017.10.22-19.55.17:035][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Collections/' took 0.01s
+[2017.10.22-19.55.17:035][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.22-19.55.17:054][  0]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2386 classes and 500 folders.
+[2017.10.22-19.55.17:177][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.22-19.55.17:616][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.22-19.55.17:699][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.22-19.55.17:951][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.22-19.55.17:954][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.22-19.55.17:970][  0]LogSlate: Took 0.006165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.22-19.55.18:161][  0]LogRenderer: Reallocating scene render targets to support 1256x796 Format 10 NumSamples 1 (Frame:1).
+[2017.10.22-19.55.18:525][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.22-19.55.18:525][  0]LogLoad: (Engine Initialization) Total time: 28.72 seconds
+[2017.10.22-19.55.18:526][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.22-19.55.18:526][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.22-19.55.18:526][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.22-19.55.18:569][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.22-19.55.18:638][  1]LogAssetRegistry: Asset discovery search completed in 19.7365 seconds
+[2017.10.22-19.55.18:640][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.22-19.55.18:640][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2017.10.22-19.55.20:478][205]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-19.55.20:498][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-19.55.20:507][205]PIE: New page: PIE session: Untitled_1 (Oct 22, 2017, 11:55:20 PM)
+[2017.10.22-19.55.20:507][205]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.10.22-19.55.20:512][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004223s)
+[2017.10.22-19.55.20:513][205]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.22-19.55.20:513][205]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2017.10.22-19.55.20:514][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006983s)
+[2017.10.22-19.55.20:601][205]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-19.55.20:618][205]LogInit: FAudioDevice initialized.
+[2017.10.22-19.55.20:670][205]LogLoad: Game class is 'GameModeBase'
+[2017.10.22-19.55.20:686][205]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.10.22-21.55.20
+[2017.10.22-19.55.20:689][205]LogWorld: Bringing up level for play took: 0.003782
+[2017.10.22-19.55.20:776][205]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.10.22-19.55.20:783][205]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.035
+[2017.10.22-19.57.29:687][310]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.22-19.57.49:237][310]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Gameplay/Framework/Controller/PlayerController/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2017.10.22-19.58.26:356][557]LogMetaData: Removing '/Game/Characters/BP_Soldier.BP_Soldier:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Soldier.PackageMetaData'
+[2017.10.22-19.58.26:357][557]LogMetaData: Removing '/Game/Characters/BP_Soldier.SKEL_BP_Soldier_C' ref from Metadata '/Game/Characters/Soldier.PackageMetaData'
+[2017.10.22-19.58.26:357][557]LogMetaData: Removing '/Game/Characters/BP_Soldier.BP_Soldier_C' ref from Metadata '/Game/Characters/Soldier.PackageMetaData'
+[2017.10.22-19.58.26:357][557]LogMetaData: Removing '/Game/Characters/BP_Soldier.BP_Soldier:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/Soldier.PackageMetaData'
+[2017.10.22-19.58.26:357][557]LogMetaData: Removing '/Game/Characters/BP_Soldier.BP_Soldier:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/Soldier.PackageMetaData'
+[2017.10.22-19.58.26:357][557]LogMetaData: Removing '/Game/Characters/BP_Soldier.BP_Soldier:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Characters/Soldier.PackageMetaData'
+[2017.10.22-19.58.26:394][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset" SILENT=true
+[2017.10.22-19.58.26:439][557]LogSavePackage: Save=39.78ms
+[2017.10.22-19.58.26:439][557]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier466AF2F544A9A5AED5D2A5B340A0F22C.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset'
+[2017.10.22-19.58.26:444][557]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset
+[2017.10.22-19.58.28:292][665]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.10.22-19.58.29:305][665]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.22-19.58.43:504][609]LogSlate: Took 0.006596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.22-19.58.45:454][743]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-19.58.45:482][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-19.58.45:482][743]PIE: New page: PIE session: Untitled_1 (Oct 22, 2017, 11:58:45 PM)
+[2017.10.22-19.58.45:482][743]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.10.22-19.58.45:484][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002116s)
+[2017.10.22-19.58.45:486][743]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.22-19.58.45:486][743]LogPlayLevel: PIE: World Init took: (0.001833s)
+[2017.10.22-19.58.45:486][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004368s)
+[2017.10.22-19.58.45:574][743]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-19.58.45:588][743]LogInit: FAudioDevice initialized.
+[2017.10.22-19.58.45:627][743]LogLoad: Game class is 'GameModeBase'
+[2017.10.22-19.58.45:629][743]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.10.22-21.58.45
+[2017.10.22-19.58.45:629][743]LogWorld: Bringing up level for play took: 0.001305
+[2017.10.22-19.58.45:631][743]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.118
+[2017.10.22-19.58.51:068][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.22-19.58.52:700][372]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-19.59.12:931][477]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.22-19.59.36:774][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.22-19.59.36:863][826]LogSavePackage: Save=33.41ms
+[2017.10.22-19.59.36:863][826]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Map_01017944804B7D4D4AA95936B1E8332727.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap'
+[2017.10.22-19.59.36:865][826]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap
+[2017.10.22-19.59.36:897][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01_BuiltData" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01_BuiltData.uasset" SILENT=true
+[2017.10.22-19.59.36:916][826]LogSavePackage: Save=15.41ms
+[2017.10.22-19.59.36:916][826]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Map_01_BuiltData65D3D61D4F8C83B871CD08963AA98C51.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01_BuiltData.uasset'
+[2017.10.22-19.59.36:916][826]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01_BuiltData.uasset
+[2017.10.22-19.59.36:919][826]LogFileHelpers: Saving map 'Map_01' took 0.771
+[2017.10.22-19.59.36:921][826]Cmd: MAP LOAD FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.22-19.59.36:937][826]LightingResults: New page: Lighting Build
+[2017.10.22-19.59.36:939][826]LoadErrors: New page: Loading map: Map_01.umap
+[2017.10.22-19.59.36:945][826]MapCheck: New page: Map Check
+[2017.10.22-19.59.36:945][826]LightingResults: New page: Lighting Build
+[2017.10.22-19.59.37:071][826]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-19.59.37:197][826]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.22-19.59.37:289][826]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.22-19.59.37:376][826]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.665ms to complete.
+[2017.10.22-19.59.37:376][826]LogFileHelpers: Loading map 'Map_01' took 0.457
+[2017.10.22-19.59.53:074][505]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2017.10.22-20.00.01:319][904]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-20.00.06:832][508]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.00.06:850][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.00.06:851][508]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:00:06 AM)
+[2017.10.22-20.00.06:851][508]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.00.06:853][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002107s)
+[2017.10.22-20.00.06:854][508]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.00.06:854][508]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2017.10.22-20.00.06:854][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003557s)
+[2017.10.22-20.00.06:947][508]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.00.06:960][508]LogInit: FAudioDevice initialized.
+[2017.10.22-20.00.06:994][508]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.00.06:995][508]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.00.06
+[2017.10.22-20.00.06:996][508]LogWorld: Bringing up level for play took: 0.000993
+[2017.10.22-20.00.07:001][508]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.748
+[2017.10.22-20.00.23:517][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Logic/NewGameMode" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/NewGameMode.uasset" SILENT=true
+[2017.10.22-20.00.23:545][102]LogSavePackage: Save=22.80ms
+[2017.10.22-20.00.23:545][102]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/NewGameModeC048198B4084548C7985DCA471761682.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/NewGameMode.uasset'
+[2017.10.22-20.00.23:547][102]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/NewGameMode.uasset
+[2017.10.22-20.00.23:623][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Maps/UEDPCMap_01.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.22-20.00.23:664][102]LogSavePackage: Save=32.56ms
+[2017.10.22-20.00.23:664][102]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UEDPCMap_01CE7440964E629B5F78164199A9BA69E4.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Maps/UEDPCMap_01.umap'
+[2017.10.22-20.00.23:665][102]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Maps/UEDPCMap_01.umap
+[2017.10.22-20.00.23:670][102]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.22-20.00.53:878][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.00.53:879][142]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:00:53 AM)
+[2017.10.22-20.00.53:879][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.00.53:881][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002554s)
+[2017.10.22-20.00.53:882][142]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.00.53:882][142]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2017.10.22-20.00.53:882][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004078s)
+[2017.10.22-20.00.53:976][142]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.00.53:990][142]LogInit: FAudioDevice initialized.
+[2017.10.22-20.00.54:022][142]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.00.54:024][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.00.54
+[2017.10.22-20.00.54:024][142]LogWorld: Bringing up level for play took: 0.001194
+[2017.10.22-20.00.54:025][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.277
+[2017.10.22-20.01.05:066][354]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.22-20.01.21:192][820]LogSlate: Took 0.006658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.22-20.01.32:731][277]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VirtusFPS
+[2017.10.22-20.01.32:731][277]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.22-20.01.32:731][277]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.10.22-20.01.32:731][277]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.22-20.01.32:731][277]LogTemp: BranchPath = SEAN-PC/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = SEAN-PC/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.10.22-20.01.32:783][278]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\AMD\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.22-20.02.41:718][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.22-20.02.41:821][323]LogSavePackage: Save=34.13ms
+[2017.10.22-20.02.41:821][323]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Map_01DF64B8EB48FA9EEB0C3083A3BFA24F4E.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap'
+[2017.10.22-20.02.41:823][323]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap
+[2017.10.22-20.02.41:844][323]LogFileHelpers: Saving map 'Map_01' took 0.212
+[2017.10.22-20.11.56:362][284]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.11.58:441][377]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.11.58:471][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.11.58:471][377]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:11:58 AM)
+[2017.10.22-20.11.58:471][377]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.11.58:473][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002326s)
+[2017.10.22-20.11.58:475][377]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.11.58:475][377]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2017.10.22-20.11.58:475][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004216s)
+[2017.10.22-20.11.58:563][377]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.11.58:578][377]LogInit: FAudioDevice initialized.
+[2017.10.22-20.11.58:608][377]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.11.58:610][377]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.11.58
+[2017.10.22-20.11.58:610][377]LogWorld: Bringing up level for play took: 0.001162
+[2017.10.22-20.11.58:612][377]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.864
+[2017.10.22-20.12.42:249][687]LogEditorTransaction: Undo Split Struct Pin
+[2017.10.22-20.12.42:281][687]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.22-20.13.36:760][430]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.13.37:907][475]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.13.37:931][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.13.37:931][475]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:13:37 AM)
+[2017.10.22-20.13.37:931][475]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.13.37:933][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002232s)
+[2017.10.22-20.13.37:935][475]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.13.37:935][475]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2017.10.22-20.13.37:935][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004030s)
+[2017.10.22-20.13.38:039][475]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.13.38:054][475]LogInit: FAudioDevice initialized.
+[2017.10.22-20.13.38:090][475]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.13.38:092][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.13.38
+[2017.10.22-20.13.38:092][475]LogWorld: Bringing up level for play took: 0.001036
+[2017.10.22-20.13.38:093][475]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.345
+[2017.10.22-20.13.50:152][ 57]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VirtusFPS
+[2017.10.22-20.13.50:152][ 57]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.22-20.13.50:152][ 57]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.10.22-20.13.50:152][ 57]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.22-20.13.50:152][ 57]LogTemp: BranchPath = SEAN-PC/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = SEAN-PC/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.10.22-20.13.50:152][ 57]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\AMD\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.22-20.14.24:520][620]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.14.24:541][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.14.24:541][620]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:14:24 AM)
+[2017.10.22-20.14.24:541][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.14.24:544][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002753s)
+[2017.10.22-20.14.24:546][620]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.14.24:546][620]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2017.10.22-20.14.24:546][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004550s)
+[2017.10.22-20.14.24:632][620]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.14.24:648][620]LogInit: FAudioDevice initialized.
+[2017.10.22-20.14.24:679][620]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.14.24:681][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.14.24
+[2017.10.22-20.14.24:681][620]LogWorld: Bringing up level for play took: 0.001196
+[2017.10.22-20.14.24:683][620]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.934
+[2017.10.22-20.14.42:156][350]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.14.42:170][350]LogBlueprint: Warning: [Compiler BP_Soldier] Input Axis Event references unknown Axis 'Input_Bwd' for  InputAxis Input_Bwd
+[2017.10.22-20.14.42:416][350]LogBlueprint: Warning: [Compiler BP_Soldier] [1192.61] Compile of BP_Soldier successful, but with 1 Warning(s) [in 259 ms] (/Game/Characters/BP_Soldier.BP_Soldier)
+[2017.10.22-20.14.43:989][420]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.14.44:012][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.14.44:012][420]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:14:44 AM)
+[2017.10.22-20.14.44:012][420]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.14.44:015][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002681s)
+[2017.10.22-20.14.44:016][420]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.14.44:016][420]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2017.10.22-20.14.44:016][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004179s)
+[2017.10.22-20.14.44:106][420]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.14.44:120][420]LogInit: FAudioDevice initialized.
+[2017.10.22-20.14.44:152][420]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.14.44:154][420]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.14.44
+[2017.10.22-20.14.44:154][420]LogWorld: Bringing up level for play took: 0.001233
+[2017.10.22-20.14.44:156][420]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.408
+[2017.10.22-20.15.46:812][721]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.15.46:825][721]LogBlueprint: Warning: [Compiler BP_Soldier] Input Axis Event references unknown Axis 'Input_Bwd' for  InputAxis Input_Bwd
+[2017.10.22-20.15.47:089][721]LogBlueprint: Warning: [Compiler BP_Soldier] [1257.29] Compile of BP_Soldier successful, but with 1 Warning(s) [in 277 ms] (/Game/Characters/BP_Soldier.BP_Soldier)
+[2017.10.22-20.15.48:684][775]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.15.48:705][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.15.48:705][775]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:15:48 AM)
+[2017.10.22-20.15.48:705][775]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.15.48:707][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2017.10.22-20.15.48:708][775]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.15.48:708][775]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2017.10.22-20.15.48:709][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003795s)
+[2017.10.22-20.15.48:801][775]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.15.48:817][775]LogInit: FAudioDevice initialized.
+[2017.10.22-20.15.48:852][775]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.15.48:854][775]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.15.48
+[2017.10.22-20.15.48:854][775]LogWorld: Bringing up level for play took: 0.001287
+[2017.10.22-20.15.48:856][775]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 1.107
+[2017.10.22-20.16.07:805][555]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.16.08:901][588]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.16.08:922][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.16.08:922][588]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:16:08 AM)
+[2017.10.22-20.16.08:922][588]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.16.08:925][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002115s)
+[2017.10.22-20.16.08:926][588]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.16.08:926][588]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2017.10.22-20.16.08:926][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003497s)
+[2017.10.22-20.16.09:022][588]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.16.09:036][588]LogInit: FAudioDevice initialized.
+[2017.10.22-20.16.09:072][588]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.16.09:074][588]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.16.09
+[2017.10.22-20.16.09:074][588]LogWorld: Bringing up level for play took: 0.001149
+[2017.10.22-20.16.09:075][588]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.673
+[2017.10.22-20.16.32:910][593]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.16.34:207][636]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.16.34:228][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.16.34:228][636]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:16:34 AM)
+[2017.10.22-20.16.34:228][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.16.34:231][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002746s)
+[2017.10.22-20.16.34:232][636]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.16.34:232][636]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2017.10.22-20.16.34:232][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004171s)
+[2017.10.22-20.16.34:332][636]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.16.34:346][636]LogInit: FAudioDevice initialized.
+[2017.10.22-20.16.34:381][636]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.16.34:383][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.16.34
+[2017.10.22-20.16.34:383][636]LogWorld: Bringing up level for play took: 0.001091
+[2017.10.22-20.16.34:384][636]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.636
+[2017.10.22-20.18.03:927][ 87]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.18.05:117][126]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.18.05:139][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.18.05:140][126]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:18:05 AM)
+[2017.10.22-20.18.05:140][126]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.18.05:142][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002185s)
+[2017.10.22-20.18.05:143][126]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.18.05:143][126]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2017.10.22-20.18.05:143][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003498s)
+[2017.10.22-20.18.05:239][126]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.18.05:252][126]LogInit: FAudioDevice initialized.
+[2017.10.22-20.18.05:284][126]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.18.05:286][126]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.18.05
+[2017.10.22-20.18.05:286][126]LogWorld: Bringing up level for play took: 0.001188
+[2017.10.22-20.18.05:288][126]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.461
+[2017.10.22-20.18.27:536][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.18.27:558][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.18.27:558][ 89]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:18:27 AM)
+[2017.10.22-20.18.27:558][ 89]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.18.27:560][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002419s)
+[2017.10.22-20.18.27:561][ 89]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.18.27:562][ 89]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2017.10.22-20.18.27:562][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004058s)
+[2017.10.22-20.18.27:690][ 89]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.18.27:703][ 89]LogInit: FAudioDevice initialized.
+[2017.10.22-20.18.27:744][ 89]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.18.27:746][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.18.27
+[2017.10.22-20.18.27:746][ 89]LogWorld: Bringing up level for play took: 0.001161
+[2017.10.22-20.18.27:748][ 89]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.001
+[2017.10.22-20.18.33:497][316]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.18.33:518][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.18.33:518][316]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:18:33 AM)
+[2017.10.22-20.18.33:518][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.18.33:520][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002292s)
+[2017.10.22-20.18.33:521][316]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.18.33:522][316]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2017.10.22-20.18.33:522][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004145s)
+[2017.10.22-20.18.33:643][316]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.18.33:657][316]LogInit: FAudioDevice initialized.
+[2017.10.22-20.18.33:688][316]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.18.33:690][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.18.33
+[2017.10.22-20.18.33:690][316]LogWorld: Bringing up level for play took: 0.001151
+[2017.10.22-20.18.33:691][316]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.057
+[2017.10.22-20.19.19:293][243]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.19.21:810][338]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.19.21:831][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.19.21:831][338]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:19:21 AM)
+[2017.10.22-20.19.21:831][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.19.21:833][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2017.10.22-20.19.21:834][338]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.19.21:834][338]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2017.10.22-20.19.21:834][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003544s)
+[2017.10.22-20.19.21:925][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.19.21:940][338]LogInit: FAudioDevice initialized.
+[2017.10.22-20.19.21:973][338]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.19.21:975][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.19.21
+[2017.10.22-20.19.21:975][338]LogWorld: Bringing up level for play took: 0.001034
+[2017.10.22-20.19.21:977][338]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.229
+[2017.10.22-20.19.56:642][688]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.19.56:664][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.19.56:665][688]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:19:56 AM)
+[2017.10.22-20.19.56:665][688]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.19.56:668][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002732s)
+[2017.10.22-20.19.56:669][688]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.19.56:669][688]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2017.10.22-20.19.56:669][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004615s)
+[2017.10.22-20.19.56:793][688]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.19.56:807][688]LogInit: FAudioDevice initialized.
+[2017.10.22-20.19.56:846][688]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.19.56:848][688]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.19.56
+[2017.10.22-20.19.56:848][688]LogWorld: Bringing up level for play took: 0.001172
+[2017.10.22-20.19.56:850][688]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 1.101
+[2017.10.22-20.20.29:397][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.20.29:419][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.20.29:419][ 40]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:20:29 AM)
+[2017.10.22-20.20.29:419][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.20.29:422][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2017.10.22-20.20.29:423][ 40]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.20.29:424][ 40]LogPlayLevel: PIE: World Init took: (0.001819s)
+[2017.10.22-20.20.29:424][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004565s)
+[2017.10.22-20.20.29:511][ 40]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.20.29:525][ 40]LogInit: FAudioDevice initialized.
+[2017.10.22-20.20.29:556][ 40]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.20.29:558][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.20.29
+[2017.10.22-20.20.29:558][ 40]LogWorld: Bringing up level for play took: 0.001141
+[2017.10.22-20.20.29:560][ 40]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.189
+[2017.10.22-20.21.05:649][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_01' took 0.042
+[2017.10.22-20.21.05:653][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_Soldier] ([1] browsable assets)...
+[2017.10.22-20.21.05:653][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Soldier]
+[2017.10.22-20.21.05:653][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Characters/BP_Soldier_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.22-20.21.05:725][642]LogSavePackage: Save=61.25ms
+[2017.10.22-20.21.05:725][642]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier_Auto1ECB187DC4ACB9DF8326626A39BCC94B2.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Characters/BP_Soldier_Auto1.uasset'
+[2017.10.22-20.21.05:726][642]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Characters/BP_Soldier_Auto1.uasset
+[2017.10.22-20.21.05:726][642]LogFileHelpers: Auto-saving content packages took 0.075
+[2017.10.22-20.26.52:049][978]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.26.54:327][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.26.54:350][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.26.54:350][ 82]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:26:54 AM)
+[2017.10.22-20.26.54:350][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.26.54:352][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002259s)
+[2017.10.22-20.26.54:353][ 82]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.26.54:353][ 82]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2017.10.22-20.26.54:354][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003759s)
+[2017.10.22-20.26.54:441][ 82]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.26.54:455][ 82]LogInit: FAudioDevice initialized.
+[2017.10.22-20.26.54:490][ 82]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.26.54:492][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.26.54
+[2017.10.22-20.26.54:492][ 82]LogWorld: Bringing up level for play took: 0.001129
+[2017.10.22-20.26.54:493][ 82]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.745
+[2017.10.22-20.27.27:804][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.22-20.28.30:602][847]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.28.34:843][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset" SILENT=true
+[2017.10.22-20.28.34:931][ 36]LogSavePackage: Save=71.93ms
+[2017.10.22-20.28.34:931][ 36]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier7959668B4F887C3E334705A8FFC8CC8A.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset'
+[2017.10.22-20.28.34:933][ 36]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset
+[2017.10.22-20.28.38:354][206]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.28.38:378][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.28.38:378][206]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:28:38 AM)
+[2017.10.22-20.28.38:378][206]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.28.38:380][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2017.10.22-20.28.38:381][206]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.28.38:381][206]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2017.10.22-20.28.38:381][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003603s)
+[2017.10.22-20.28.38:473][206]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.28.38:487][206]LogInit: FAudioDevice initialized.
+[2017.10.22-20.28.38:519][206]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.28.38:520][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.28.38
+[2017.10.22-20.28.38:521][206]LogWorld: Bringing up level for play took: 0.001085
+[2017.10.22-20.28.38:522][206]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.774
+[2017.10.22-20.28.39:635][234]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_Soldier_C /Game/Maps/UEDPIE_0_Map_01.Map_01:PersistentLevel.BP_Soldier_C_0
+	Function /Game/Characters/BP_Soldier.BP_Soldier_C:ExecuteUbergraph_BP_Soldier:001C
+[2017.10.22-20.28.39:636][234]PIE: Error: Infinite Loop detected in  BP_Soldier , asserted during  Jump with the following  Call Stack
+[2017.10.22-20.28.41:143][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.22-20.28.42:707][376]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.28.42:729][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.28.42:730][376]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:28:42 AM)
+[2017.10.22-20.28.42:730][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.28.42:732][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002153s)
+[2017.10.22-20.28.42:733][376]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.28.42:733][376]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2017.10.22-20.28.42:733][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003391s)
+[2017.10.22-20.28.42:825][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.28.42:838][376]LogInit: FAudioDevice initialized.
+[2017.10.22-20.28.42:873][376]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.28.42:875][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.28.42
+[2017.10.22-20.28.42:875][376]LogWorld: Bringing up level for play took: 0.001123
+[2017.10.22-20.28.42:876][376]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 1.128
+[2017.10.22-20.28.47:512][587]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_Soldier_C /Game/Maps/UEDPIE_0_Map_01.Map_01:PersistentLevel.BP_Soldier_C_0
+	Function /Game/Characters/BP_Soldier.BP_Soldier_C:ExecuteUbergraph_BP_Soldier:001C
+[2017.10.22-20.28.47:513][587]PIE: Error: Infinite Loop detected in  BP_Soldier , asserted during  Jump with the following  Call Stack
+[2017.10.22-20.28.56:310][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.22-20.28.56:364][ 34]Cmd: SELECT NONE
+[2017.10.22-20.28.57:050][ 68]Cmd: SELECT NONE
+[2017.10.22-20.28.57:500][ 88]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.22-20.28.57:608][ 90]Cmd: SELECT NONE
+[2017.10.22-20.29.39:584][221]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-20.29.41:260][297]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-20.29.41:288][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-20.29.41:288][297]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 12:29:41 AM)
+[2017.10.22-20.29.41:288][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-20.29.41:290][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002261s)
+[2017.10.22-20.29.41:291][297]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-20.29.41:291][297]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2017.10.22-20.29.41:292][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.003608s)
+[2017.10.22-20.29.41:380][297]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-20.29.41:394][297]LogInit: FAudioDevice initialized.
+[2017.10.22-20.29.41:424][297]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-20.29.41:425][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-22.29.41
+[2017.10.22-20.29.41:426][297]LogWorld: Bringing up level for play took: 0.001098
+[2017.10.22-20.29.41:427][297]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.322
+[2017.10.22-20.29.42:823][372]LogBlueprintUserMessages: [BP_Soldier_C_0] Hello
+[2017.10.22-20.29.58:629][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset" SILENT=true
+[2017.10.22-20.29.58:701][218]LogSavePackage: Save=69.06ms
+[2017.10.22-20.29.58:701][218]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier7BAA97FB49E6D58130530BAC67FEB791.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset'
+[2017.10.22-20.29.58:704][218]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset
+[2017.10.22-21.55.38:964][238]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2017.10.22-21.55.39:184][238]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2017.10.22-21.55.39:705][238]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2017.10.22-21.55.40:217][238]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.10.22-21.55.40:394][238]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.10.22-21.55.40:643][238]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2017.10.22-21.55.40:902][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.10.22-21.55.40:995][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.10.22-21.55.41:754][238]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0017 seconds. Added 1 classes and 0 folders.
+[2017.10.22-21.55.41:773][238]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.10.22-21.56.06:267][837]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-21.56.32:558][972]Cmd: MODE GRID=0
+[2017.10.22-21.57.02:705][338]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-21.57.03:962][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset" SILENT=true
+[2017.10.22-21.57.04:053][375]LogSavePackage: Save=78.22ms
+[2017.10.22-21.57.04:053][375]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier18BB3CED460E2B78CF31E997C96588BD.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset'
+[2017.10.22-21.57.04:055][375]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset
+[2017.10.22-21.57.07:063][504]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-21.57.07:089][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-21.57.07:089][504]PIE: New page: PIE session: Map_01 (Oct 23, 2017, 1:57:07 AM)
+[2017.10.22-21.57.07:089][504]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2017.10.22-21.57.07:092][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002412s)
+[2017.10.22-21.57.07:094][504]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-21.57.07:094][504]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2017.10.22-21.57.07:094][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.004696s)
+[2017.10.22-21.57.07:192][504]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-21.57.07:207][504]LogInit: FAudioDevice initialized.
+[2017.10.22-21.57.07:236][504]LogLoad: Game class is 'NewGameMode_C'
+[2017.10.22-21.57.07:238][504]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2017.10.22-23.57.07
+[2017.10.22-21.57.07:238][504]LogWorld: Bringing up level for play took: 0.001171
+[2017.10.22-21.57.07:240][504]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.507
+[2017.10.22-21.57.53:584][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2017.10.22-21.57.53:595][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2017.10.22-21.57.53:673][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2017.10.22-21.57.53:679][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2017.10.22-21.57.53:687][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2017.10.22-21.57.53:697][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2017.10.22-21.57.53:706][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2017.10.22-21.57.53:716][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2017.10.22-21.57.53:725][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2017.10.22-21.57.53:735][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2017.10.22-21.57.53:744][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2017.10.22-21.57.53:754][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2017.10.22-21.57.53:765][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2017.10.22-21.57.53:775][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2017.10.22-21.57.53:784][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2017.10.22-21.57.53:802][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2017.10.22-21.57.53:808][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2017.10.22-21.57.53:815][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2017.10.22-21.57.53:823][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2017.10.22-21.57.53:830][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2017.10.22-21.57.53:837][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2017.10.22-21.57.53:844][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2017.10.22-21.57.53:878][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2017.10.22-21.57.53:891][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2017.10.22-21.57.53:917][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2017.10.22-21.57.53:923][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2017.10.22-21.57.53:931][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2017.10.22-21.57.53:938][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2017.10.22-21.57.53:945][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2017.10.22-21.57.53:954][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2017.10.22-21.57.53:960][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2017.10.22-21.57.53:968][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2017.10.22-21.57.53:986][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2017.10.22-21.57.53:998][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2017.10.22-21.57.54:011][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2017.10.22-21.57.54:019][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2017.10.22-21.57.54:041][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2017.10.22-21.57.54:050][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2017.10.22-21.57.54:065][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2017.10.22-21.57.54:078][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2017.10.22-21.57.54:084][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2017.10.22-21.57.54:090][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2017.10.22-21.57.54:097][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2017.10.22-21.57.54:231][395]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2017.10.22-21.57.54:231][395]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.10.22-21.57.54:232][395]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.10.22-21.57.54:232][395]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.10.22-21.57.54:232][395]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.10.22-21.57.54:244][395]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [7384.44] Compile of Ue4ASP_Character successful, but with 5 Warning(s) [in 56 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.22-21.57.54:313][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2017.10.22-21.57.54:321][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2017.10.22-21.57.54:330][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2017.10.22-21.57.54:339][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2017.10.22-21.57.54:583][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/UE4_Mannequin/Mesh/SK_Mannequin" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/SK_Mannequin.uasset" SILENT=true
+[2017.10.22-21.57.54:664][395]LogSavePackage: Save=79.19ms
+[2017.10.22-21.57.54:664][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/SK_Mannequin681918AD446AFFFE896554965A9EC997.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2017.10.22-21.57.54:667][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/SK_Mannequin.uasset
+[2017.10.22-21.57.54:696][395]LogSavePackage: Save=6.54ms
+[2017.10.22-21.57.54:696][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/SK_Mannequin2387594248265204BC0FCAB7FA605302.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2017.10.22-21.57.54:699][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset
+[2017.10.22-21.57.54:731][395]LogSavePackage: Save=23.60ms
+[2017.10.22-21.57.54:731][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/SK_Mannequin_PhysicsAsset64892A604E2CAFB4B9B89FB3A98B850F.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2017.10.22-21.57.54:733][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2017.10.22-21.57.54:789][395]LogSavePackage: Save=19.76ms
+[2017.10.22-21.57.54:789][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/M_UE4Man_ChestLogoB27097B84CAD657BD40466A5C99A294B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset'
+[2017.10.22-21.57.54:791][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset
+[2017.10.22-21.57.54:837][395]LogSavePackage: Save=19.01ms
+[2017.10.22-21.57.54:837][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4Man_Logo_N89B56E1943B55886261C0DAD88E9BE45.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset'
+[2017.10.22-21.57.54:839][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset
+[2017.10.22-21.57.54:901][395]LogSavePackage: Save=31.71ms
+[2017.10.22-21.57.54:901][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/M_UE4Man_BodyCEBB9D1E4E4100C578635A8CD5F59D60.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/M_UE4Man_Body.uasset'
+[2017.10.22-21.57.54:903][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/M_UE4Man_Body.uasset
+[2017.10.22-21.57.54:948][395]LogSavePackage: Save=21.76ms
+[2017.10.22-21.57.54:948][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4_Mannequin_occlusion_Mobile56EA632F42C67C56D300F18EB58BC42B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset'
+[2017.10.22-21.57.54:950][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset
+[2017.10.22-21.57.54:987][395]LogSavePackage: Save=21.45ms
+[2017.10.22-21.57.54:988][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4_Mannequin_MAT_MASKA5C13854B40A4017097DE1F968BD8691B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2017.10.22-21.57.54:990][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2017.10.22-21.57.55:139][395]LogSavePackage: Save=131.87ms
+[2017.10.22-21.57.55:139][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4_Mannequin__normals8F376561490B8DA08644B9BAB1666BAF.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset'
+[2017.10.22-21.57.55:141][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset
+[2017.10.22-21.57.55:161][395]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.10.22-21.57.55:265][395]LogSavePackage: Save=24.75ms
+[2017.10.22-21.57.55:265][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/ML_SoftMetal_UE40D9E22924E9E08559588839E43CC8BA0.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.10.22-21.57.55:267][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.10.22-21.57.55:319][395]LogSavePackage: Save=19.20ms
+[2017.10.22-21.57.55:319][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/T_ML_Aluminum01_N1CF096F847484096DD0C13893379206B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.10.22-21.57.55:322][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.10.22-21.57.55:370][395]LogSavePackage: Save=23.20ms
+[2017.10.22-21.57.55:370][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/T_ML_Aluminum01F2A66D78464BA6315465A2956971F2C1.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.10.22-21.57.55:372][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.10.22-21.57.55:388][395]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.10.22-21.57.55:471][395]LogSavePackage: Save=21.11ms
+[2017.10.22-21.57.55:471][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/ML_Plastic_Shiny_Beige_LOGO2E7AAA4D4244B4CC48F4C4A0FEFDA6E5.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.10.22-21.57.55:473][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.10.22-21.57.55:514][395]LogSavePackage: Save=14.66ms
+[2017.10.22-21.57.55:514][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4_LOGO_CARD04489D3D471C8BB4C58AC7B937E2021D.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset'
+[2017.10.22-21.57.55:516][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset
+[2017.10.22-21.57.55:523][395]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.10.22-21.57.55:615][395]LogSavePackage: Save=21.95ms
+[2017.10.22-21.57.55:615][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/ML_Plastic_Shiny_Beige0E4479FB412EB4C878FB48AB5F44815F.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.10.22-21.57.55:618][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.10.22-21.57.55:636][395]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.10.22-21.57.55:753][395]LogSavePackage: Save=34.99ms
+[2017.10.22-21.57.55:753][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/ML_GlossyBlack_Latex_UE4998248AB4B0A8D6007D7CAB0E37E7C1C.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.10.22-21.57.55:758][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.10.22-21.57.55:820][395]LogSavePackage: Save=20.06ms
+[2017.10.22-21.57.55:820][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/T_ML_Rubber_Blue_01_NF7B66B92459BCB81B97E8DAF883CEB79.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.10.22-21.57.55:823][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.10.22-21.57.55:894][395]LogSavePackage: Save=42.70ms
+[2017.10.22-21.57.55:894][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/T_ML_Rubber_Blue_01_DC4BC69534670D19D5201EB99417D3C86.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.10.22-21.57.55:897][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.10.22-21.57.55:914][395]LogSavePackage: Save=10.23ms
+[2017.10.22-21.57.55:915][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4_Mannequin_Skeleton5607CE024E17A20420304D914D37D201.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.10.22-21.57.55:918][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.10.22-21.57.59:236][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2017.10.22-21.57.59:271][395]LogSavePackage: Save=24.32ms
+[2017.10.22-21.57.59:271][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Space_Hip49C91EE247D3E650D4A73C99DA321349.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Aim_Space_Hip.uasset'
+[2017.10.22-21.57.59:272][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Aim_Space_Hip.uasset
+[2017.10.22-21.57.59:315][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2017.10.22-21.57.59:352][395]LogSavePackage: Save=23.22ms
+[2017.10.22-21.57.59:352][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Space_IronsightsCDE81FE64661FA7F724A2B9BF27A1622.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2017.10.22-21.57.59:353][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Aim_Space_Ironsights.uasset
+[2017.10.22-21.57.59:400][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_CrouchWalk" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2017.10.22-21.57.59:436][395]LogSavePackage: Save=25.05ms
+[2017.10.22-21.57.59:437][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BS_CrouchWalk79232CE54C65B92D4D389E9C0FEFCC18.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2017.10.22-21.57.59:437][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/BS_CrouchWalk.uasset
+[2017.10.22-21.57.59:479][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2017.10.22-21.57.59:525][395]LogSavePackage: Save=31.22ms
+[2017.10.22-21.57.59:525][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BS_Jog700EC03E4382C9E52A75EDBB5BD47B23.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/BS_Jog.uasset'
+[2017.10.22-21.57.59:526][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/BS_Jog.uasset
+[2017.10.22-21.57.59:566][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Idle_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.57.59:611][395]LogSavePackage: Save=29.77ms
+[2017.10.22-21.57.59:611][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Idle_Rifle_Hip4A9B71B54D47A46E2F4C12AC749EA956.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2017.10.22-21.57.59:613][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset
+[2017.10.22-21.57.59:653][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.57.59:690][395]LogSavePackage: Save=25.70ms
+[2017.10.22-21.57.59:690][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Idle_Rifle_Ironsights8CFBB8A749E94DC4436E5AAE087881F4.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2017.10.22-21.57.59:691][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+[2017.10.22-21.57.59:732][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.57.59:780][395]LogSavePackage: Save=30.40ms
+[2017.10.22-21.57.59:780][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_to_Stand_Rifle_Hip787144244F75FF4BA8F699942E2BC6F8.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2017.10.22-21.57.59:781][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset
+[2017.10.22-21.57.59:849][395]LogSavePackage: Save=25.00ms
+[2017.10.22-21.57.59:850][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_to_Stand_Rifle_Ironsights1932330C4FD24B03C4BC6DA944FB8C9A.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2017.10.22-21.57.59:851][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2017.10.22-21.57.59:891][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.57.59:935][395]LogSavePackage: Save=27.91ms
+[2017.10.22-21.57.59:935][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Bwd_Rifle_Hip7E1798CB4888F20AE249A69808D3637F.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2017.10.22-21.57.59:936][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2017.10.22-21.58.00:027][395]LogSavePackage: Save=29.07ms
+[2017.10.22-21.58.00:027][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Bwd_Rifle_Ironsights81E1C677445FBE5418B6D3B9523FEE32.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.00:028][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.22-21.58.00:078][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.00:122][395]LogSavePackage: Save=28.35ms
+[2017.10.22-21.58.00:122][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Fwd_Rifle_HipE80276144F67466B95E478BCFC17F600.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2017.10.22-21.58.00:123][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2017.10.22-21.58.00:208][395]LogSavePackage: Save=31.83ms
+[2017.10.22-21.58.00:208][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Fwd_Rifle_IronsightsA0A2CB6D4DBE98DE9A2B42B340B71B21.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.00:209][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.22-21.58.00:249][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.00:284][395]LogSavePackage: Save=22.35ms
+[2017.10.22-21.58.00:285][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Lt_Rifle_HipEC898E954801CBF106497A96135CAA42.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2017.10.22-21.58.00:286][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2017.10.22-21.58.00:365][395]LogSavePackage: Save=25.03ms
+[2017.10.22-21.58.00:365][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Lt_Rifle_IronsightsB7C079A747AF590AC60A3491B4F4C2BB.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.00:366][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.22-21.58.00:401][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.00:437][395]LogSavePackage: Save=24.43ms
+[2017.10.22-21.58.00:437][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Rt_Rifle_HipFB180C994231B3B0AD2688AE2EE85EC4.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2017.10.22-21.58.00:438][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2017.10.22-21.58.00:519][395]LogSavePackage: Save=26.24ms
+[2017.10.22-21.58.00:519][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Crouch_Walk_Rt_Rifle_Ironsights883323BC46746691C64D579F143793A2.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.00:521][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.22-21.58.00:554][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_1" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_1.uasset" SILENT=true
+[2017.10.22-21.58.00:593][395]LogSavePackage: Save=25.52ms
+[2017.10.22-21.58.00:593][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Death_1B2A784BB408280D0FCCD0C8A3FA86B07.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_1.uasset'
+[2017.10.22-21.58.00:594][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_1.uasset
+[2017.10.22-21.58.00:635][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_2" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_2.uasset" SILENT=true
+[2017.10.22-21.58.00:679][395]LogSavePackage: Save=27.09ms
+[2017.10.22-21.58.00:679][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Death_2C36581F341D3B717F7209982E8F0FC65.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_2.uasset'
+[2017.10.22-21.58.00:680][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_2.uasset
+[2017.10.22-21.58.00:718][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_3" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_3.uasset" SILENT=true
+[2017.10.22-21.58.00:752][395]LogSavePackage: Save=22.14ms
+[2017.10.22-21.58.00:752][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Death_3BF4217A149F59F00981FE5BDCCB281A9.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_3.uasset'
+[2017.10.22-21.58.00:754][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_3.uasset
+[2017.10.22-21.58.00:786][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_1" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2017.10.22-21.58.00:829][395]LogSavePackage: Save=23.49ms
+[2017.10.22-21.58.00:829][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Death_Ironsights_103CA42FF490CC3E0A1C492BF124B2B48.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_Ironsights_1.uasset'
+[2017.10.22-21.58.00:830][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_Ironsights_1.uasset
+[2017.10.22-21.58.00:869][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_2" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2017.10.22-21.58.00:918][395]LogSavePackage: Save=30.52ms
+[2017.10.22-21.58.00:918][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Death_Ironsights_23D12D1474B9E3363399F8E98D2013EF5.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_Ironsights_2.uasset'
+[2017.10.22-21.58.00:919][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Death_Ironsights_2.uasset
+[2017.10.22-21.58.00:953][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Equip_Pistol_Standing" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" SILENT=true
+[2017.10.22-21.58.00:990][395]LogSavePackage: Save=23.85ms
+[2017.10.22-21.58.00:990][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Equip_Pistol_StandingDD05037F494C5B392933E0AE3106CEBA.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2017.10.22-21.58.00:991][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Equip_Pistol_Standing.uasset
+[2017.10.22-21.58.01:032][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Equip_Rifle_Standing" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2017.10.22-21.58.01:067][395]LogSavePackage: Save=23.35ms
+[2017.10.22-21.58.01:067][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Equip_Rifle_StandingE574535A4AFEDFA1310955AA838703F9.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2017.10.22-21.58.01:068][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Equip_Rifle_Standing.uasset
+[2017.10.22-21.58.01:116][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.01:161][395]LogSavePackage: Save=25.21ms
+[2017.10.22-21.58.01:161][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Fire_Rifle_Hip4ED4A83B44F4A4F7CD7A29A29DB66F30.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2017.10.22-21.58.01:162][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Rifle_Hip.uasset
+[2017.10.22-21.58.01:193][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.01:228][395]LogSavePackage: Save=24.36ms
+[2017.10.22-21.58.01:228][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Fire_Rifle_IronsightsE18C3AE041B32D0ADF03F185F3BBD911.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.01:229][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset
+[2017.10.22-21.58.01:269][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Shotgun_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2017.10.22-21.58.01:302][395]LogSavePackage: Save=22.11ms
+[2017.10.22-21.58.01:302][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Fire_Shotgun_HipB136058242C74CE88D5C9EA0876A3A6A.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2017.10.22-21.58.01:303][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset
+[2017.10.22-21.58.01:345][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Shotgun_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.01:386][395]LogSavePackage: Save=26.83ms
+[2017.10.22-21.58.01:386][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Fire_Shotgun_IronsightsBA22D86644AF61221989369AD22E159A.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2017.10.22-21.58.01:387][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset
+[2017.10.22-21.58.01:421][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_1" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2017.10.22-21.58.01:468][395]LogSavePackage: Save=26.63ms
+[2017.10.22-21.58.01:468][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Hit_React_1BD3EDE0143EFA110AE004581F53C2C4B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_1.uasset'
+[2017.10.22-21.58.01:469][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_1.uasset
+[2017.10.22-21.58.01:517][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_2" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2017.10.22-21.58.01:555][395]LogSavePackage: Save=23.81ms
+[2017.10.22-21.58.01:556][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Hit_React_2805085754DA3B7291358CAB832B8ECA2.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_2.uasset'
+[2017.10.22-21.58.01:556][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_2.uasset
+[2017.10.22-21.58.01:589][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_3" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2017.10.22-21.58.01:626][395]LogSavePackage: Save=25.51ms
+[2017.10.22-21.58.01:626][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Hit_React_3AC538D1843015A9690594EAA5BBFFE85.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_3.uasset'
+[2017.10.22-21.58.01:627][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_3.uasset
+[2017.10.22-21.58.01:667][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_4" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2017.10.22-21.58.01:714][395]LogSavePackage: Save=30.20ms
+[2017.10.22-21.58.01:714][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Hit_React_497F827F5420C06E423876BB9A04A995F.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_4.uasset'
+[2017.10.22-21.58.01:715][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Hit_React_4.uasset
+[2017.10.22-21.58.01:755][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Pistol" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2017.10.22-21.58.01:803][395]LogSavePackage: Save=22.90ms
+[2017.10.22-21.58.01:803][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Idle_Pistol6CFB202545514A909C27B787334D5208.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Pistol.uasset'
+[2017.10.22-21.58.01:804][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Pistol.uasset
+[2017.10.22-21.58.01:850][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.01:893][395]LogSavePackage: Save=30.92ms
+[2017.10.22-21.58.01:893][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Idle_Rifle_HipA2A99ABD44EC1FE4139E3188E280F32D.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2017.10.22-21.58.01:894][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip.uasset
+[2017.10.22-21.58.01:928][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip_Break1" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" SILENT=true
+[2017.10.22-21.58.01:980][395]LogSavePackage: Save=28.43ms
+[2017.10.22-21.58.01:981][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Idle_Rifle_Hip_Break14FF15BEA48730678C7850185A6B08301.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2017.10.22-21.58.01:981][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset
+[2017.10.22-21.58.02:014][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip_Break2" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" SILENT=true
+[2017.10.22-21.58.02:055][395]LogSavePackage: Save=28.21ms
+[2017.10.22-21.58.02:055][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Idle_Rifle_Hip_Break2378157CB41B718FA0A72059B4436EA5C.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2017.10.22-21.58.02:056][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset
+[2017.10.22-21.58.02:090][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.02:137][395]LogSavePackage: Save=32.38ms
+[2017.10.22-21.58.02:137][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Idle_Rifle_IronsightsF3D66CE7480A8EE783D124B65EBB95C0.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.02:138][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset
+[2017.10.22-21.58.02:181][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Bwd_Rifle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2017.10.22-21.58.02:218][395]LogSavePackage: Save=26.36ms
+[2017.10.22-21.58.02:218][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jog_Bwd_Rifle1AF113DD43A47E033F6594A85938E044.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2017.10.22-21.58.02:219][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset
+[2017.10.22-21.58.02:255][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Fwd_Rifle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2017.10.22-21.58.02:294][395]LogSavePackage: Save=25.32ms
+[2017.10.22-21.58.02:294][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jog_Fwd_Rifle43BBCDFF4BD231B8EBB0389725707A8A.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2017.10.22-21.58.02:295][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset
+[2017.10.22-21.58.02:336][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Lt_Rifle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2017.10.22-21.58.02:377][395]LogSavePackage: Save=24.11ms
+[2017.10.22-21.58.02:377][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jog_Lt_Rifle078A7EA747EE27344106599655FEF63C.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2017.10.22-21.58.02:378][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Lt_Rifle.uasset
+[2017.10.22-21.58.02:418][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Rt_Rifle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2017.10.22-21.58.02:456][395]LogSavePackage: Save=25.69ms
+[2017.10.22-21.58.02:456][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jog_Rt_Rifle2B2CF41D4AF4E748C9A926BCD5F5EDDE.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2017.10.22-21.58.02:457][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jog_Rt_Rifle.uasset
+[2017.10.22-21.58.02:490][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jump_From_Jog" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Jog.uasset" SILENT=true
+[2017.10.22-21.58.02:530][395]LogSavePackage: Save=26.82ms
+[2017.10.22-21.58.02:530][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jump_From_Jog1025A2544153A5ABED8478AFD0D34177.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Jog.uasset'
+[2017.10.22-21.58.02:531][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Jog.uasset
+[2017.10.22-21.58.02:587][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jump_From_Stand" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Stand.uasset" SILENT=true
+[2017.10.22-21.58.02:626][395]LogSavePackage: Save=26.44ms
+[2017.10.22-21.58.02:626][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jump_From_Stand82C35CB241D6AB37110D86A6D6B34E57.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Stand.uasset'
+[2017.10.22-21.58.02:627][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Stand.uasset
+[2017.10.22-21.58.02:685][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jump_From_Stand_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.02:730][395]LogSavePackage: Save=28.60ms
+[2017.10.22-21.58.02:730][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Jump_From_Stand_IronsightsA32205D149E5E437B4C53684ED141D92.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset'
+[2017.10.22-21.58.02:731][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset
+[2017.10.22-21.58.02:762][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Death_1" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Death_1.uasset" SILENT=true
+[2017.10.22-21.58.02:797][395]LogSavePackage: Save=22.67ms
+[2017.10.22-21.58.02:797][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Death_1B64C51794961FADF6AEA03AFE9166900.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Death_1.uasset'
+[2017.10.22-21.58.02:798][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Death_1.uasset
+[2017.10.22-21.58.02:852][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Death_2" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Death_2.uasset" SILENT=true
+[2017.10.22-21.58.02:891][395]LogSavePackage: Save=26.76ms
+[2017.10.22-21.58.02:891][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Death_24047C29C4B2C98299DCF59A7678DC5E8.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Death_2.uasset'
+[2017.10.22-21.58.02:892][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Death_2.uasset
+[2017.10.22-21.58.02:926][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Fire_1" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Fire_1.uasset" SILENT=true
+[2017.10.22-21.58.02:969][395]LogSavePackage: Save=28.31ms
+[2017.10.22-21.58.02:969][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Fire_1DDF4D4864A5A932AAE4471B25CF0FE50.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Fire_1.uasset'
+[2017.10.22-21.58.02:970][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Fire_1.uasset
+[2017.10.22-21.58.03:017][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Fire_2" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Fire_2.uasset" SILENT=true
+[2017.10.22-21.58.03:054][395]LogSavePackage: Save=24.58ms
+[2017.10.22-21.58.03:055][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Fire_29E5D3E3A46C798E7406936B82772B79E.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Fire_2.uasset'
+[2017.10.22-21.58.03:056][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Fire_2.uasset
+[2017.10.22-21.58.03:092][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Idle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Idle.uasset" SILENT=true
+[2017.10.22-21.58.03:128][395]LogSavePackage: Save=23.62ms
+[2017.10.22-21.58.03:128][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Idle75A88D694067F5A41E1045875E76AFF2.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Idle.uasset'
+[2017.10.22-21.58.03:129][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Idle.uasset
+[2017.10.22-21.58.03:169][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Reload_Rifle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" SILENT=true
+[2017.10.22-21.58.03:208][395]LogSavePackage: Save=22.11ms
+[2017.10.22-21.58.03:208][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Reload_RifleB2D0174F46AC43CB0F25EC9A1382F38B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Reload_Rifle.uasset'
+[2017.10.22-21.58.03:209][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Reload_Rifle.uasset
+[2017.10.22-21.58.03:252][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Reload_Shotgun" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" SILENT=true
+[2017.10.22-21.58.03:292][395]LogSavePackage: Save=24.78ms
+[2017.10.22-21.58.03:292][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_Reload_ShotgunCED9697940209C909BEC15B5DD19919F.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset'
+[2017.10.22-21.58.03:293][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset
+[2017.10.22-21.58.03:324][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_To_Stand" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_To_Stand.uasset" SILENT=true
+[2017.10.22-21.58.03:370][395]LogSavePackage: Save=27.33ms
+[2017.10.22-21.58.03:371][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Prone_To_Stand02BF7F1C49F1441007797D8E52FB3BE9.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_To_Stand.uasset'
+[2017.10.22-21.58.03:372][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Prone_To_Stand.uasset
+[2017.10.22-21.58.03:417][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Pistol" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Pistol.uasset" SILENT=true
+[2017.10.22-21.58.03:453][395]LogSavePackage: Save=22.88ms
+[2017.10.22-21.58.03:453][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Reload_PistolCF9FCF93469FCC30DFC320BAEDB23B06.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Pistol.uasset'
+[2017.10.22-21.58.03:454][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Pistol.uasset
+[2017.10.22-21.58.03:489][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.03:539][395]LogSavePackage: Save=33.28ms
+[2017.10.22-21.58.03:539][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Reload_Rifle_HipC17132EF4ABDDA43080609BCA2CA6D26.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Rifle_Hip.uasset'
+[2017.10.22-21.58.03:541][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Rifle_Hip.uasset
+[2017.10.22-21.58.03:587][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.03:631][395]LogSavePackage: Save=27.98ms
+[2017.10.22-21.58.03:631][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Reload_Rifle_Ironsights751E171D4CF694271DE68FA56313029B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.03:632][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset
+[2017.10.22-21.58.03:663][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Shotgun_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" SILENT=true
+[2017.10.22-21.58.03:707][395]LogSavePackage: Save=31.33ms
+[2017.10.22-21.58.03:707][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Reload_Shotgun_Hip5C959B504644AB839253FC9D917A87A5.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset'
+[2017.10.22-21.58.03:708][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset
+[2017.10.22-21.58.03:740][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Shotgun_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.03:780][395]LogSavePackage: Save=26.73ms
+[2017.10.22-21.58.03:781][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Reload_Shotgun_Ironsights55CE74F24335FA79E23280BFE2513FD3.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset'
+[2017.10.22-21.58.03:782][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset
+[2017.10.22-21.58.03:823][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Sprint_Fwd_Rifle" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2017.10.22-21.58.03:866][395]LogSavePackage: Save=29.95ms
+[2017.10.22-21.58.03:866][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Sprint_Fwd_RifleD84EC42A43D52CEBD4CA0198FB8601BB.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset'
+[2017.10.22-21.58.03:867][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset
+[2017.10.22-21.58.03:906][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" SILENT=true
+[2017.10.22-21.58.03:946][395]LogSavePackage: Save=24.94ms
+[2017.10.22-21.58.03:946][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Stand_to_Crouch_Rifle_Hip8F29A1BA4E68D36B8D58D6A92626CDD1.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset'
+[2017.10.22-21.58.03:947][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset
+[2017.10.22-21.58.04:022][395]LogSavePackage: Save=22.67ms
+[2017.10.22-21.58.04:022][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Stand_to_Crouch_Rifle_IronsightsC750A46742B51BE5508423B7BCA8683E.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.04:023][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2017.10.22-21.58.04:057][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_To_Prone" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_To_Prone.uasset" SILENT=true
+[2017.10.22-21.58.04:098][395]LogSavePackage: Save=26.70ms
+[2017.10.22-21.58.04:098][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Stand_To_Prone7D27840B423132CF219E95AFB0C23313.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_To_Prone.uasset'
+[2017.10.22-21.58.04:099][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Stand_To_Prone.uasset
+[2017.10.22-21.58.04:152][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" SILENT=true
+[2017.10.22-21.58.04:587][395]LogSavePackage: Save=412.98ms
+[2017.10.22-21.58.04:587][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/UE4ASP_HeroTPP_AnimBlueprintEB71C4A14A4ED8F55707F19AF336C508.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2017.10.22-21.58.04:590][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset
+[2017.10.22-21.58.04:635][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.04:679][395]LogSavePackage: Save=23.55ms
+[2017.10.22-21.58.04:679][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Walk_Bwd_Rifle_IronsightsE2EE212048520B9EEC29D9A8066239E4.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.04:680][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.22-21.58.04:712][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.04:750][395]LogSavePackage: Save=25.58ms
+[2017.10.22-21.58.04:750][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Walk_Fwd_Rifle_Ironsights0925A47E4AEEFEC375B904ADE904568E.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.04:751][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.22-21.58.04:791][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.04:826][395]LogSavePackage: Save=22.54ms
+[2017.10.22-21.58.04:826][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Walk_Lt_Rifle_Ironsights3ED8119A48A1D1A15E5BB0A5B24C3561.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.04:827][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.22-21.58.04:868][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" SILENT=true
+[2017.10.22-21.58.04:896][395]LogSavePackage: Save=18.23ms
+[2017.10.22-21.58.04:896][395]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Walk_Rt_Rifle_Ironsights8E091ABC4B3A7F83C7A24D92DF4AFB31.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset'
+[2017.10.22-21.58.04:897][395]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.22-21.58.08:147][538]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_01' took 0.055
+[2017.10.22-21.58.08:149][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_Soldier] ([1] browsable assets)...
+[2017.10.22-21.58.08:167][538]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Soldier.BP_Soldier]
+[2017.10.22-21.58.08:167][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Soldier]
+[2017.10.22-21.58.08:167][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Characters/BP_Soldier_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.10.22-21.58.08:247][538]LogSavePackage: Save=75.40ms
+[2017.10.22-21.58.08:247][538]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier_Auto239A0359549FB0970165BE785744E4679.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Characters/BP_Soldier_Auto2.uasset'
+[2017.10.22-21.58.08:248][538]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/Characters/BP_Soldier_Auto2.uasset
+[2017.10.22-21.58.08:249][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Ue4ASP_Character] ([1] browsable assets)...
+[2017.10.22-21.58.08:270][538]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character]
+[2017.10.22-21.58.08:271][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Ue4ASP_Character]
+[2017.10.22-21.58.08:386][538]LogSavePackage: Save=105.25ms
+[2017.10.22-21.58.08:386][538]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Ue4ASP_Character_Auto2226E70B4491DAA6491557D99A9D11B17.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto2.uasset'
+[2017.10.22-21.58.08:387][538]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto2.uasset
+[2017.10.22-21.58.08:387][538]LogFileHelpers: Auto-saving content packages took 0.239
+[2017.10.22-21.58.40:677][539]BlueprintLog: New page: Compile BP_Soldier
+[2017.10.22-21.59.06:654][857]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.06:654][857]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset.
+[2017.10.22-21.59.06:654][857]LoadErrors: Error: /Game/Characters/BP_Soldier : Can't find file for asset. /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin
+[2017.10.22-21.59.06:655][857]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.06:655][857]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Characters/BP_Soldier.uasset.
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:InpAxisEvt_Input_FwdBwd_K2Node_InputAxisEvent_6' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:InpAxisEvt_Input_RightLeft_K2Node_InputAxisEvent_11' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:InpAxisEvt_Horizontal_Look_K2Node_InputAxisEvent_15' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:InpAxisEvt_Vertical_Look_K2Node_InputAxisEvent_18' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:ExecuteUbergraph_BP_Soldier' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:UserConstructionScript' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:OnLanded' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:UserConstructionScript' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:SkeletalMesh' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:OnLanded' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:InpAxisEvt_Vertical_Look_K2Node_InputAxisEvent_18' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:InpAxisEvt_Horizontal_Look_K2Node_InputAxisEvent_15' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.BP_Soldier_C:SkeletalMesh' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:InpAxisEvt_Input_RightLeft_K2Node_InputAxisEvent_11' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:679][857]LogMetaData: Removing '/Game/Logic/BP_Soldier.SKEL_BP_Soldier_C:InpAxisEvt_Input_FwdBwd_K2Node_InputAxisEvent_6' ref from Metadata '/Game/Characters/BP_Soldier.PackageMetaData'
+[2017.10.22-21.59.06:703][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Logic/BP_Soldier" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/BP_Soldier.uasset" SILENT=true
+[2017.10.22-21.59.06:773][857]LogSavePackage: Save=68.25ms
+[2017.10.22-21.59.06:773][857]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BP_Soldier9ED369B54B9BC5984EC65CA29DF586AC.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/BP_Soldier.uasset'
+[2017.10.22-21.59.06:775][857]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/BP_Soldier.uasset
+[2017.10.22-21.59.07:135][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Logic/NewGameMode" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/NewGameMode.uasset" SILENT=true
+[2017.10.22-21.59.07:168][857]LogSavePackage: Save=21.75ms
+[2017.10.22-21.59.07:168][857]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/NewGameMode698DE9DB4D3467A8B8C6F3913DBFD1A9.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/NewGameMode.uasset'
+[2017.10.22-21.59.07:170][857]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/NewGameMode.uasset
+[2017.10.22-21.59.23:517][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:517][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Showcase.umap.
+[2017.10.22-21.59.23:517][654]LoadErrors: Error: /Game/AnimStarterPack/Showcase : Can't find file for asset. /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin
+[2017.10.22-21.59.23:517][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:518][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Showcase.umap.
+[2017.10.22-21.59.23:533][654]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.10.22-21.59.23:533][654]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.10.22-21.59.23:533][654]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.10.22-21.59.23:533][654]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2017.10.22-21.59.23:533][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:533][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_27
+[2017.10.22-21.59.23:534][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:534][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:534][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_36
+[2017.10.22-21.59.23:534][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:534][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:534][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_48
+[2017.10.22-21.59.23:535][654]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.10.22-21.59.23:535][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:535][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:535][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_51
+[2017.10.22-21.59.23:536][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:537][654]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.10.22-21.59.23:537][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:537][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_54
+[2017.10.22-21.59.23:537][654]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X32)
+[2017.10.22-21.59.23:537][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:537][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:537][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_57
+[2017.10.22-21.59.23:538][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:538][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:538][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_60
+[2017.10.22-21.59.23:538][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:539][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:539][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_66
+[2017.10.22-21.59.23:539][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:540][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:540][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_69
+[2017.10.22-21.59.23:540][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:541][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:541][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_72
+[2017.10.22-21.59.23:541][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:541][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:542][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_75
+[2017.10.22-21.59.23:542][654]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X256)
+[2017.10.22-21.59.23:542][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:542][654]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.23:542][654]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_78
+[2017.10.22-21.59.23:542][654]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.23:584][654]LogAIModule: Creating AISystem for world Showcase
+[2017.10.22-21.59.23:586][654]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.10.22-21.59.27:642][654]Cmd: MAP LOAD FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.22-21.59.27:643][654]LightingResults: New page: Lighting Build
+[2017.10.22-21.59.27:645][654]LoadErrors: New page: Loading map: Showcase.umap
+[2017.10.22-21.59.27:645][654]MapCheck: New page: Map Check
+[2017.10.22-21.59.27:645][654]LightingResults: New page: Lighting Build
+[2017.10.22-21.59.27:783][654]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.22-21.59.27:876][654]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.22-21.59.27:980][654]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.144ms to complete.
+[2017.10.22-21.59.27:980][654]LogFileHelpers: Loading map 'Showcase' took 0.345
+[2017.10.22-21.59.32:645][844]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-21.59.32:681][844]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.22-21.59.32:697][844]LogPlayLevel: [PlayLevel] Compiling UE4ASP_HeroTPP_AnimBlueprint before play...
+[2017.10.22-21.59.32:727][844]LogPlayLevel: [PlayLevel]   Compiling Ue4ASP_Character as a dependent...
+[2017.10.22-21.59.32:765][844]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2017.10.22-21.59.32:765][844]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.10.22-21.59.32:765][844]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.10.22-21.59.32:765][844]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.10.22-21.59.32:766][844]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.10.22-21.59.32:778][844]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [7482.98] Compile of Ue4ASP_Character successful, but with 5 Warning(s) [in 82 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.22-21.59.33:078][844]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (2 blueprints)
+[2017.10.22-21.59.33:078][844]PIE: New page: PIE session: Showcase (Oct 23, 2017, 1:59:33 AM)
+[2017.10.22-21.59.33:078][844]LogPlayLevel: Creating play world package: /Game/AnimStarterPack/UEDPIE_0_Showcase
+[2017.10.22-21.59.33:101][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022551s)
+[2017.10.22-21.59.33:102][844]LogAIModule: Creating AISystem for world Showcase
+[2017.10.22-21.59.33:102][844]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2017.10.22-21.59.33:102][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnimStarterPack/Showcase.Showcase to /Game/AnimStarterPack/UEDPIE_0_Showcase.Showcase (0.024369s)
+[2017.10.22-21.59.33:182][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-21.59.33:196][844]LogInit: FAudioDevice initialized.
+[2017.10.22-21.59.33:228][844]LogLoad: Game class is 'GameModeBase'
+[2017.10.22-21.59.33:230][844]LogWorld: Bringing World /Game/AnimStarterPack/UEDPIE_0_Showcase.Showcase up for play (max tick rate 0) at 2017.10.22-23.59.33
+[2017.10.22-21.59.33:230][844]LogWorld: Bringing up level for play took: 0.001258
+[2017.10.22-21.59.33:231][844]PIE: Play in editor start time for /Game/AnimStarterPack/UEDPIE_0_Showcase 1.484
+[2017.10.22-21.59.38:923][ 78]LogAIModule: Creating AISystem for world Map_01
+[2017.10.22-21.59.40:280][ 78]Cmd: MAP LOAD FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.22-21.59.40:281][ 78]LightingResults: New page: Lighting Build
+[2017.10.22-21.59.40:283][ 78]LoadErrors: New page: Loading map: Map_01.umap
+[2017.10.22-21.59.40:296][ 78]MapCheck: New page: Map Check
+[2017.10.22-21.59.40:296][ 78]LightingResults: New page: Lighting Build
+[2017.10.22-21.59.40:462][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.22-21.59.40:551][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.22-21.59.40:654][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.878ms to complete.
+[2017.10.22-21.59.40:654][ 78]LogFileHelpers: Loading map 'Map_01' took 0.375
+[2017.10.22-21.59.52:177][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:177][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Showcase.umap.
+[2017.10.22-21.59.52:177][529]LoadErrors: Error: /Game/AnimStarterPack/Showcase : Can't find file for asset. /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin
+[2017.10.22-21.59.52:177][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:177][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/AnimStarterPack/Showcase.umap.
+[2017.10.22-21.59.52:191][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:191][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_27
+[2017.10.22-21.59.52:191][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:191][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:191][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_36
+[2017.10.22-21.59.52:191][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:192][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:192][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_48
+[2017.10.22-21.59.52:192][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:192][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:192][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_51
+[2017.10.22-21.59.52:192][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:192][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:193][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_54
+[2017.10.22-21.59.52:193][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:193][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:193][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_57
+[2017.10.22-21.59.52:193][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:193][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:193][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_60
+[2017.10.22-21.59.52:193][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:194][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:194][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_66
+[2017.10.22-21.59.52:194][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:194][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:194][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_69
+[2017.10.22-21.59.52:194][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:195][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:195][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_72
+[2017.10.22-21.59.52:195][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:195][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:195][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_75
+[2017.10.22-21.59.52:195][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:195][529]LogLinker: Warning: Can't find file '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2017.10.22-21.59.52:196][529]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by HeroTPP_78
+[2017.10.22-21.59.52:196][529]LogLinker: Warning: Can't find file for asset '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin' while loading NULL.
+[2017.10.22-21.59.52:201][529]LogAIModule: Creating AISystem for world Showcase
+[2017.10.22-21.59.52:201][529]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.10.22-22.01.10:522][239]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-22.01.11:260][239]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.241 s
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: 
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2323]
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: 
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: Stack: 
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000581B3E36
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000057F3C2D2
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000057F54746
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004FED651B
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004F6CE149
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004F943352
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004F8C4BE2
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004F8C77F9
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004F93B3E5
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C35B967
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C3874D4
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1A42BC
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C177145
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C211452
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1F9C92
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1EB68F
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005818B759
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000058173EE1
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005818D5BB
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005816F042
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: USER32.dll!0x000000008EB61C24
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: USER32.dll!0x000000008EB6156C
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005818DC29
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C21C576
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1ADE33
+[2017.10.22-22.01.11:260][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004F9D10EC
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004FECCA83
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004FECC1E6
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003EC4C491
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003ED7C743
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003ED54251
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003ED5BB96
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1C53FF
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C2C8FC2
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C2CF368
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C226522
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C2279B9
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C2A6265
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C35B967
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C3874D4
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C2D153D
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1A42BC
+[2017.10.22-22.01.11:261][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C177145
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C211452
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1F9C92
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005C1EB68F
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005818B759
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000058173EE1
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005818D5BB
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005816F042
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: USER32.dll!0x000000008EB61C24
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: USER32.dll!0x000000008EB6156C
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005818DCC6
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor.exe!0x00000000E26A4BE2
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor.exe!0x00000000E26B3970
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor.exe!0x00000000E26B39EA
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor.exe!0x00000000E26C02D9
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: UE4Editor.exe!0x00000000E26C1C47
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: KERNEL32.DLL!0x000000008EF68364
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: ntdll.dll!0x0000000090CB7091
+[2017.10.22-22.01.11:262][239]LogOutputDevice: Error: 
+[2017.10.22-22.01.11:265][239]LogStats:                SubmitErrorReport -  0.000 s
