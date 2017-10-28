@@ -1,0 +1,1238 @@
+﻿Log file open, 10/28/17 22:55:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Virtus_FPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1137980559) SRandInit(-1137980559).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208234
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.28-20.56.00:309][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.28-20.56.00:309][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.28-20.56.00:327][  0]LogInit: Computer: SEAN-PC
+[2017.10.28-20.56.00:327][  0]LogInit: User: AMD
+[2017.10.28-20.56.00:327][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.28-20.56.00:327][  0]LogInit: High frequency timer resolution =3.919475 MHz
+[2017.10.28-20.56.00:327][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.28-20.56.00:327][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.28-20.56.00:327][  0]LogMemory: Process Physical Memory: 278.71 MB used, 278.71 MB peak
+[2017.10.28-20.56.00:328][  0]LogMemory: Process Virtual Memory: 282.56 MB used, 282.56 MB peak
+[2017.10.28-20.56.00:328][  0]LogMemory: Physical Memory: 4724.32 MB used,  3365.17 MB free, 8089.49 MB total
+[2017.10.28-20.56.00:328][  0]LogMemory: Virtual Memory: 677.21 MB used,  3365.17 MB free, 134217728.00 MB total
+[2017.10.28-20.56.00:624][  0]LogInit: Using OS detected language (en-US).
+[2017.10.28-20.56.00:624][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.28-20.56.00:628][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.28-20.56.01:530][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.28-20.56.01:548][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 / HD 7900 Series' (Feature Level 11_0)
+[2017.10.28-20.56.01:548][  0]LogD3D11RHI:       3053/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.10.28-20.56.01:565][  0]LogD3D11RHI:    1. 'AMD Radeon R9 200 / HD 7900 Series' (Feature Level 11_0)
+[2017.10.28-20.56.01:565][  0]LogD3D11RHI:       3053/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.10.28-20.56.01:567][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.28-20.56.01:567][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.28-20.56.01:567][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.28-20.56.01:574][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.28-20.56.01:574][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.28-20.56.01:574][  0]LogWindows: EnumDisplayDevices:
+[2017.10.28-20.56.01:574][  0]LogWindows:    0. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:1)
+[2017.10.28-20.56.01:575][  0]LogWindows:    1. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:575][  0]LogWindows:    2. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:575][  0]LogWindows:    3. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:576][  0]LogWindows:    4. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:576][  0]LogWindows:    5. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:577][  0]LogWindows:    6. 'AMD Radeon R9 200 / HD 7900 Series' (P:1 D:1)
+[2017.10.28-20.56.01:577][  0]LogWindows:    7. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:577][  0]LogWindows:    8. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:578][  0]LogWindows:    9. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:578][  0]LogWindows:    10. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:578][  0]LogWindows:    11. 'AMD Radeon R9 200 / HD 7900 Series' (P:0 D:0)
+[2017.10.28-20.56.01:579][  0]LogWindows: DebugString: FoundDriverCount:12 
+[2017.10.28-20.56.01:579][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 / HD 7900 Series
+[2017.10.28-20.56.01:579][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.162.4, unified:22.19.162.4)
+[2017.10.28-20.56.01:579][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2017.10.28-20.56.01:579][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.28-20.56.01:897][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.28-20.56.01:913][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.10.28-20.56.01:914][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Intermediate/Shaders/WorkingDirectory/12100/).
+[2017.10.28-20.56.01:914][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AMD/AppData/Local/Temp/UnrealShaderWorkingDir/DBF169624E92E9C4E4F04FB918ACA42B/'.
+[2017.10.28-20.56.01:914][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.28-20.56.03:309][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.28-20.56.03:391][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.28-20.56.03:474][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.28-20.56.03:565][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.28-20.56.03:658][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.28-20.56.03:750][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.28-20.56.03:842][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.28-20.56.03:936][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.28-20.56.04:020][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.28-20.56.04:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.28-20.56.04:195][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.28-20.56.04:278][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.28-20.56.04:358][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.28-20.56.04:437][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.28-20.56.04:517][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.28-20.56.04:684][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.28-20.56.04:684][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.28-20.56.04:754][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.28-20.56.04:900][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.28-20.56.04:951][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.28-20.56.05:037][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.28-20.56.05:125][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.28-20.56.05:215][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.28-20.56.05:302][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.28-20.56.05:303][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.28-20.56.06:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.28-20.56.06:389][  0]LogDerivedDataCache: Loaded boot cache 0.18s 93MB C:/Users/AMD/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.28-20.56.06:389][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AMD/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.28-20.56.06:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/Virtus_FPS/Virtus_FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.28-20.56.06:390][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.28-20.56.06:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/Virtus_FPS/Virtus_FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.28-20.56.06:390][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.28-20.56.06:411][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.28-20.56.06:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AMD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.28-20.56.06:441][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.28-20.56.06:441][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.28-20.56.06:442][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.28-20.56.06:442][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.28-20.56.06:829][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2017.10.28-20.56.07:026][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.28-20.56.07:665][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.28-20.56.07:736][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.28-20.56.07:736][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.28-20.56.07:736][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.28-20.56.07:736][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.28-20.56.07:736][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.28-20.56.07:776][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.28-20.56.08:355][  0]LogNetVersion: Virtus_FPS , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 88762100)
+[2017.10.28-20.56.08:636][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.045334 seconds
+[2017.10.28-20.56.08:645][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.28-20.56.08:645][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.28-20.56.08:645][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.28-20.56.08:756][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.28-20.56.12:804][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.28-20.56.12:869][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.28-20.56.13:955][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.28-20.56.14:637][  0]SourceControl: Source control is disabled
+[2017.10.28-20.56.16:167][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.28-20.56.16:613][  0]LogOcInput: OculusInput pre-init called
+[2017.10.28-20.56.17:048][  0]LogEngine: Initializing Engine...
+[2017.10.28-20.56.17:051][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.28-20.56.17:376][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.28-20.56.17:376][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.28-20.56.17:608][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.28-20.56.17:660][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.28-20.56.17:698][  0]LogInit: FAudioDevice initialized.
+[2017.10.28-20.56.17:838][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/AMD/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.28-20.56.17:883][  0]LogInit: Texture streaming: Enabled
+[2017.10.28-20.56.18:092][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.28-20.56.18:480][  0]LogInit: Transaction tracking system initialized
+[2017.10.28-20.56.19:057][  0]BlueprintLog: New page: Editor Load
+[2017.10.28-20.56.20:644][  0]LocalizationService: Localization service is disabled
+[2017.10.28-20.56.21:866][  0]LogConsoleResponse: Display: 
+[2017.10.28-20.56.22:130][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.28-20.56.22:130][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.28-20.56.22:130][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.28-20.56.22:877][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/' took 0.01s
+[2017.10.28-20.56.24:031][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.28-20.56.24:031][  0]LightingResults: New page: Lighting Build
+[2017.10.28-20.56.24:107][  0]MapCheck: New page: Map Check
+[2017.10.28-20.56.24:107][  0]LightingResults: New page: Lighting Build
+[2017.10.28-20.56.24:257][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:257][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset.
+[2017.10.28-20.56.24:258][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:258][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:259][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center.uasset.
+[2017.10.28-20.56.24:259][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Center : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:259][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:259][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center.uasset.
+[2017.10.28-20.56.24:259][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Center : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:262][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:262][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Down.uasset.
+[2017.10.28-20.56.24:262][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Center_Down : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:262][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:262][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Down.uasset.
+[2017.10.28-20.56.24:262][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Center_Down : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:264][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:264][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Up.uasset.
+[2017.10.28-20.56.24:264][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Center_Up : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:265][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:265][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Up.uasset.
+[2017.10.28-20.56.24:265][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Center_Up : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:267][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:267][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center.uasset.
+[2017.10.28-20.56.24:267][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Center : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:267][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:267][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center.uasset.
+[2017.10.28-20.56.24:267][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Center : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:269][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:269][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Down.uasset.
+[2017.10.28-20.56.24:269][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Down : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:270][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:270][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Down.uasset.
+[2017.10.28-20.56.24:270][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Down : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:271][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:272][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Up.uasset.
+[2017.10.28-20.56.24:272][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Up : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:272][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:272][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Up.uasset.
+[2017.10.28-20.56.24:272][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Up : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:274][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:274][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center.uasset.
+[2017.10.28-20.56.24:274][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Center : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:274][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:274][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center.uasset.
+[2017.10.28-20.56.24:275][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Center : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:276][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:276][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Down.uasset.
+[2017.10.28-20.56.24:276][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Down : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:277][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:277][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Down.uasset.
+[2017.10.28-20.56.24:277][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Down : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:279][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:279][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Up.uasset.
+[2017.10.28-20.56.24:279][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Up : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:279][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:279][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Up.uasset.
+[2017.10.28-20.56.24:279][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Up : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:280][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:280][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset.
+[2017.10.28-20.56.24:280][  0]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:356][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:356][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by BS_Aim_Stand_Rifle_Hip
+[2017.10.28-20.56.24:356][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Logic/UI/BP_FPSHUD.uasset.
+[2017.10.28-20.56.24:356][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by BS_Aim_Stand_Rifle_Hip
+[2017.10.28-20.56.24:356][  0]LoadErrors: Error: /Game/Logic/UI/BP_FPSHUD : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.56.24:542][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:542][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Up
+[2017.10.28-20.56.24:542][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:542][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Up
+[2017.10.28-20.56.24:542][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:542][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Down
+[2017.10.28-20.56.24:542][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:542][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Down
+[2017.10.28-20.56.24:543][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:543][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Center
+[2017.10.28-20.56.24:543][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:543][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Center
+[2017.10.28-20.56.24:543][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:543][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Up
+[2017.10.28-20.56.24:543][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:543][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Up
+[2017.10.28-20.56.24:544][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:544][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Down
+[2017.10.28-20.56.24:544][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:544][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Down
+[2017.10.28-20.56.24:544][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:544][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Center
+[2017.10.28-20.56.24:544][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:544][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Center
+[2017.10.28-20.56.24:545][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:545][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Center_Up
+[2017.10.28-20.56.24:545][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:545][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Center_Up
+[2017.10.28-20.56.24:545][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:546][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Center_Down
+[2017.10.28-20.56.24:546][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:546][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Center_Down
+[2017.10.28-20.56.24:546][  0]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.56.24:546][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Center
+[2017.10.28-20.56.24:546][  0]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.56.24:546][  0]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Center
+[2017.10.28-20.56.24:583][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Up.Aim_Right_Up
+[2017.10.28-20.56.24:587][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Down.Aim_Right_Down
+[2017.10.28-20.56.24:587][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Center.Aim_Right_Center
+[2017.10.28-20.56.24:588][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Up.Aim_Left_Up
+[2017.10.28-20.56.24:589][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Down.Aim_Left_Down
+[2017.10.28-20.56.24:589][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Center.Aim_Left_Center
+[2017.10.28-20.56.24:590][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center_Up.Aim_Center_Up
+[2017.10.28-20.56.24:591][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center_Down.Aim_Center_Down
+[2017.10.28-20.56.24:657][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center.Aim_Center
+[2017.10.28-20.56.24:769][  0]LogAIModule: Creating AISystem for world Map_01
+[2017.10.28-20.56.24:775][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.28-20.56.24:811][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.28-20.56.24:899][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.917ms to complete.
+[2017.10.28-20.56.24:900][  0]LogFileHelpers: Loading map 'Map_01' took 0.869
+[2017.10.28-20.56.24:986][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.28-20.56.25:127][  0]LogCollectionManager: Loaded 0 collections in 0.002631 seconds
+[2017.10.28-20.56.25:246][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Collections/' took 0.01s
+[2017.10.28-20.56.25:246][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Developers/AMD/Collections/' took 0.01s
+[2017.10.28-20.56.25:246][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Collections/' took 0.01s
+[2017.10.28-20.56.25:246][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.28-20.56.25:262][  0]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2386 classes and 500 folders.
+[2017.10.28-20.56.25:381][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.28-20.56.25:453][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.28-20.56.25:528][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.10.28-20.56.25:719][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.10.28-20.56.25:720][  0]LogLoad: (Engine Initialization) Total time: 27.91 seconds
+[2017.10.28-20.56.25:720][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.28-20.56.25:720][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.28-20.56.25:720][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.28-20.56.25:766][  0]SourceControl: On branch master
+[2017.10.28-20.56.25:766][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.10.28-20.56.25:766][  0]SourceControl: Changes to be committed:
+[2017.10.28-20.56.25:766][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Center.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Center_Down.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Center_Up.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Center.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Center1.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Down.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Up.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Center.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Center1.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Down.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Up.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Space_Hip.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/Aim_Space_Ironsights.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/BS_AimOffset.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/AimPoses/NewAimOffsetBlendSpace.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Center.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Center_Down.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Center_Up.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Left_Center.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Left_Center1.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Left_Down.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Left_Up.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Right_Center.uasset
+[2017.10.28-20.56.25:766][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Right_Center1.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Right_Down.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Aim_Right_Up.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/BS_AimOffset.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/BS_CrouchWalk.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/BS_Jog.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Idle_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Idle_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_to_Stand_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Death_1.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Death_2.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Death_3.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Death_Ironsights_1.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Death_Ironsights_2.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Equip_Pistol_Standing.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Equip_Rifle_Standing.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Fire_Rifle_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Fire_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Fire_Shotgun_Hip.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Fire_Shotgun_Ironsights.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Hit_React_1.uasset
+[2017.10.28-20.56.25:767][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Hit_React_2.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Hit_React_3.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Hit_React_4.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Idle_Pistol.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Idle_Rifle_Hip.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Idle_Rifle_Hip_Break1.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Idle_Rifle_Hip_Break2.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Idle_Rifle_Hip_NoPose.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Idle_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jog_Bwd_Rifle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jog_Fwd_Rifle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jog_Lt_Rifle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jog_Rt_Rifle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jump_From_Jog.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jump_From_Stand.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Jump_From_Stand_Ironsights.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Death_1.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Death_2.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Fire_1.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Fire_2.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Idle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Reload_Rifle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_Reload_Shotgun.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Prone_To_Stand.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Reload_Pistol.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Reload_Rifle_Hip.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Reload_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Reload_Shotgun_Hip.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Reload_Shotgun_Ironsights.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Sprint_Fwd_Rifle.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Stand_To_Prone.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Stand_to_Crouch_Rifle_Hip.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Down.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Up.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center1.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Down.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Up.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center1.uasset
+[2017.10.28-20.56.25:768][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Down.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Up.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/BS_AimOffset.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/AimPoses/NewAimOffsetBlendSpace.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Center.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Center_Down.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Center_Up.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Left_Center.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Left_Center1.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Left_Down.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Left_Up.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Right_Center.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Right_Center1.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Right_Down.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Aim_Right_Up.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/BS_AimOffset.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/BS_CrouchWalk.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/BS_Jog.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Crouch_Idle_Rifle_Hip.uasset -> Virtus_FPS/Content/Animations/StarterPack/Crouch_Idle_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Crouch_Idle_Rifle_Ironsights.uasset -> Virtus_FPS/Content/Animations/StarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_to_Stand_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Death_1.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Death_2.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Death_3.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Death_Ironsights_1.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Death_Ironsights_2.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Equip_Pistol_Standing.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Equip_Rifle_Standing.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Fire_Rifle_Hip.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Fire_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:769][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Fire_Shotgun_Hip.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Fire_Shotgun_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Hit_React_1.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Hit_React_2.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Hit_React_3.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Hit_React_4.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Idle_Pistol.uasset -> Virtus_FPS/Content/Animations/StarterPack/Idle_Pistol.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Idle_Rifle_Hip.uasset -> Virtus_FPS/Content/Animations/StarterPack/Idle_Rifle_Hip.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Idle_Rifle_Hip_Break1.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Idle_Rifle_Hip_Break2.uasset -> Virtus_FPS/Content/Animations/StarterPack/Idle_Rifle_Hip_Break2.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Idle_Rifle_Hip_NoPose.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Idle_Rifle_Ironsights.uasset -> Virtus_FPS/Content/Animations/StarterPack/Idle_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jog_Bwd_Rifle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jog_Fwd_Rifle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jog_Lt_Rifle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jog_Rt_Rifle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jump_From_Jog.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jump_From_Stand.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Jump_From_Stand_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Prone_Death_1.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Prone_Death_2.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Prone_Fire_1.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Prone_Fire_2.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Prone_Idle.uasset -> Virtus_FPS/Content/Animations/StarterPack/Prone_Idle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Prone_Reload_Rifle.uasset -> Virtus_FPS/Content/Animations/StarterPack/Prone_Reload_Rifle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Prone_Reload_Shotgun.uasset -> Virtus_FPS/Content/Animations/StarterPack/Prone_Reload_Shotgun.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Prone_To_Stand.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Reload_Pistol.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Reload_Rifle_Hip.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Reload_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Reload_Shotgun_Hip.uasset -> Virtus_FPS/Content/Animations/StarterPack/Reload_Shotgun_Hip.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	copied:     Virtus_FPS/Content/Animations/Reload_Shotgun_Ironsights.uasset -> Virtus_FPS/Content/Animations/StarterPack/Reload_Shotgun_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Sprint_Fwd_Rifle.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Stand_To_Prone.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Stand_to_Crouch_Rifle_Hip.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	new file:   Virtus_FPS/Content/Animations/StarterPack/Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:770][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	modified:   Virtus_FPS/Content/Animations/Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	new file:   Virtus_FPS/Content/Logic/BP_FPSHUD.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	new file:   Virtus_FPS/Content/Logic/BP_PainVolume.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	new file:   Virtus_FPS/Content/Logic/UI/BP_DamageEffect.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	new file:   Virtus_FPS/Content/Logic/UI/BP_FPSHUD.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: Changes not staged for commit:
+[2017.10.28-20.56.25:771][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.10.28-20.56.25:771][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.10.28-20.56.25:771][  0]SourceControl: 	modified:   Virtus_FPS/Config/DefaultEngine.ini
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Center.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Center_Down.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Center_Up.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Center.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Center1.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Down.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Left_Up.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Center.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Center1.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Down.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Right_Up.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Space_Hip.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/Aim_Space_Ironsights.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/BS_AimOffset.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/AimPoses/NewAimOffsetBlendSpace.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Center.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Center_Down.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Center_Up.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Left_Center.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Left_Center1.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Left_Down.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Left_Up.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Right_Center.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Right_Center1.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Right_Down.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Right_Up.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Space_Hip.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Aim_Space_Ironsights.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/BS_AimOffset.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/BS_CrouchWalk.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/BS_Jog.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Idle_Rifle_Hip.uasset
+[2017.10.28-20.56.25:771][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Idle_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_to_Stand_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Death_1.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Death_2.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Death_3.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Death_Ironsights_1.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Death_Ironsights_2.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Equip_Pistol_Standing.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Equip_Rifle_Standing.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Fire_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Fire_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Fire_Shotgun_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Fire_Shotgun_Ironsights.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Hit_React_1.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Hit_React_2.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Hit_React_3.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Hit_React_4.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Idle_Pistol.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Idle_Rifle_Hip.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Idle_Rifle_Hip_Break1.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Idle_Rifle_Hip_Break2.uasset
+[2017.10.28-20.56.25:772][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Idle_Rifle_Hip_NoPose.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Idle_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jog_Bwd_Rifle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jog_Fwd_Rifle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jog_Lt_Rifle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jog_Rt_Rifle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jump_From_Jog.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jump_From_Stand.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Jump_From_Stand_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Death_1.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Death_2.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Fire_1.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Fire_2.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Idle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Reload_Rifle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_Reload_Shotgun.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Prone_To_Stand.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Reload_Pistol.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Reload_Rifle_Hip.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Reload_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Reload_Shotgun_Hip.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Reload_Shotgun_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Sprint_Fwd_Rifle.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Stand_To_Prone.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Stand_to_Crouch_Rifle_Hip.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Walk_Bwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Walk_Fwd_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Walk_Lt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	deleted:    Virtus_FPS/Content/Animations/Walk_Rt_Rifle_Ironsights.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Content/Logic/BP_Anim_Soldier.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Content/Logic/BP_Char_Soldier.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Content/Logic/BP_PainVolume.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Content/Logic/UI/BP_DamageEffect.uasset
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Content/Maps/Map_01.umap
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Intermediate/AssetRegistryCache/311563bb.bin
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Intermediate/CachedAssetRegistry.bin
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.10.28-20.56.25:773][  0]SourceControl: 	modified:   Virtus_FPS/Saved/AutoScreenshot.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	modified:   Virtus_FPS/Saved/Autosaves/PackageRestoreData.json
+[2017.10.28-20.56.25:774][  0]SourceControl: 	deleted:    Virtus_FPS/Saved/Config/CrashReportClient/UE4CC-Windows-AF6CFA334B48C401A84D518BC065B0E8/CrashReportClient.ini
+[2017.10.28-20.56.25:774][  0]SourceControl: 	modified:   Virtus_FPS/Saved/Config/Windows/Editor.ini
+[2017.10.28-20.56.25:774][  0]SourceControl: 	modified:   Virtus_FPS/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.10.28-20.56.25:774][  0]SourceControl: 	modified:   Virtus_FPS/Saved/Logs/Virtus_FPS.log
+[2017.10.28-20.56.25:774][  0]SourceControl: Untracked files:
+[2017.10.28-20.56.25:774][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Animations/VirtusAnims/
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Mesh/Swat.fbx
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Textures/Soldier_Body_diffuse.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Textures/Soldier_Body_normal.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Textures/Soldier_Body_specular.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Textures/Soldier_head_diffuse.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Textures/Soldier_head_normal.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Characters/Textures/Soldier_head_specular.png
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/UI/
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Content/Weapons/
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Autosaves/Game/Logic/BP_Char_Soldier_Auto2.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Autosaves/Game/Logic/BP_PainVolume_Auto1.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Autosaves/Game/Maps/Map_01_Auto2.umap
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Autosaves/Game/Maps/Map_01_Auto3.umap
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Center_2017-10-28-22-49-58.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Center_Down_2017-10-28-22-49-58.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Center_Up_2017-10-28-22-49-58.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Left_Center1_2017-10-28-22-49-59.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Left_Center_2017-10-28-22-49-58.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Left_Down_2017-10-28-22-49-57.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Left_Up_2017-10-28-22-49-57.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Right_Center1_2017-10-28-22-49-59.uasset
+[2017.10.28-20.56.25:774][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Right_Center_2017-10-28-22-49-57.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Right_Down_2017-10-28-22-49-57.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Right_Up_2017-10-28-22-49-56.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Space_Hip_2017-10-28-22-49-59.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Aim_Space_Ironsights_2017-10-28-22-49-59.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Anim_Soldier_2017-10-28-22-53-02.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-21-13-57.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-21-18-57.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-21-26-59.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-21-37-24.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-21-44-41.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-21-59-30.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-22-09-31.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-22-25-08.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-22-34-08.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-22-40-12.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-22-45-18.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_Char_Soldier_2017-10-28-22-53-03.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_DamageEffect_2017-10-28-22-29-22.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_FPSHUD_2017-10-28-21-32-18.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_FPSHUD_2017-10-28-22-20-42.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_PainVolume_2017-10-28-21-54-23.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_PainVolume_2017-10-28-22-00-22.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_PainVolume_2017-10-28-22-09-37.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_PainVolume_2017-10-28-22-15-00.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_PainVolume_2017-10-28-22-23-40.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BP_PainVolume_2017-10-28-22-40-11.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BS_AimOffset_2017-10-28-22-50-00.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BS_Aim_Stand_Rifle_Hip_2017-10-28-22-49-56.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BS_CrouchWalk_2017-10-28-22-51-12.uasset
+[2017.10.28-20.56.25:775][  0]SourceControl: 	Virtus_FPS/Saved/Backup/BS_Jog_2017-10-28-22-51-12.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Idle_Rifle_Hip_2017-10-28-22-51-12.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Idle_Rifle_Ironsights_2017-10-28-22-51-13.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Bwd_Rifle_Hip_2017-10-28-22-51-13.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Bwd_Rifle_Ironsights_2017-10-28-22-51-14.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Fwd_Rifle_Hip_2017-10-28-22-51-14.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Fwd_Rifle_Ironsights_2017-10-28-22-51-14.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Lt_Rifle_Hip_2017-10-28-22-51-14.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Lt_Rifle_Ironsights_2017-10-28-22-51-14.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Rt_Rifle_Hip_2017-10-28-22-51-15.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_Walk_Rt_Rifle_Ironsights_2017-10-28-22-51-15.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_to_Stand_Rifle_Hip_2017-10-28-22-51-13.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Crouch_to_Stand_Rifle_Ironsights_2017-10-28-22-51-13.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Death_1_2017-10-28-22-51-15.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Death_2_2017-10-28-22-51-15.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Death_3_2017-10-28-22-51-16.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Death_Ironsights_1_2017-10-28-22-51-16.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Death_Ironsights_2_2017-10-28-22-51-16.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Equip_Pistol_Standing_2017-10-28-22-51-16.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Equip_Rifle_Standing_2017-10-28-22-51-16.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Fire_Rifle_Hip_2017-10-28-22-51-17.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Fire_Rifle_Ironsights_2017-10-28-22-51-17.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Fire_Shotgun_Hip_2017-10-28-22-51-17.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Fire_Shotgun_Ironsights_2017-10-28-22-51-17.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Hit_React_1_2017-10-28-22-51-18.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Hit_React_2_2017-10-28-22-51-18.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Hit_React_3_2017-10-28-22-51-18.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Hit_React_4_2017-10-28-22-51-18.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Idle_Pistol_2017-10-28-22-51-18.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Idle_Rifle_Hip_2017-10-28-22-51-19.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Idle_Rifle_Hip_Break1_2017-10-28-22-51-19.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Idle_Rifle_Hip_Break2_2017-10-28-22-51-19.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Idle_Rifle_Hip_NoPose_2017-10-28-22-51-19.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Idle_Rifle_Ironsights_2017-10-28-22-51-20.uasset
+[2017.10.28-20.56.25:776][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jog_Bwd_Rifle_2017-10-28-22-51-20.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jog_Fwd_Rifle_2017-10-28-22-51-20.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jog_Lt_Rifle_2017-10-28-22-51-20.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jog_Rt_Rifle_2017-10-28-22-51-21.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jump_From_Jog_2017-10-28-22-51-21.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jump_From_Stand_2017-10-28-22-51-21.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Jump_From_Stand_Ironsights_2017-10-28-22-51-21.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-21-10-48.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-21-41-36.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-21-50-15.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-22-03-40.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-22-25-12.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-22-37-20.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_2017-10-28-22-48-35.umap
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_BuiltData_2017-10-28-21-10-48.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_BuiltData_2017-10-28-21-41-36.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Map_01_BuiltData_2017-10-28-21-52-39.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/NewAimOffsetBlendSpace_2017-10-28-22-50-00.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Death_1_2017-10-28-22-51-21.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Death_2_2017-10-28-22-51-22.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Fire_1_2017-10-28-22-51-22.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Fire_2_2017-10-28-22-51-22.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Idle_2017-10-28-22-51-22.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Reload_Rifle_2017-10-28-22-51-23.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_Reload_Shotgun_2017-10-28-22-51-23.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Prone_To_Stand_2017-10-28-22-51-23.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Reload_Pistol_2017-10-28-22-51-23.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Reload_Rifle_Hip_2017-10-28-22-51-23.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Reload_Rifle_Ironsights_2017-10-28-22-51-24.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Reload_Shotgun_Hip_2017-10-28-22-51-24.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Reload_Shotgun_Ironsights_2017-10-28-22-51-24.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Sprint_Fwd_Rifle_2017-10-28-22-51-24.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Stand_To_Prone_2017-10-28-22-51-25.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Stand_to_Crouch_Rifle_Hip_2017-10-28-22-51-25.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Stand_to_Crouch_Rifle_Ironsights_2017-10-28-22-51-25.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Walk_Bwd_Rifle_Ironsights_2017-10-28-22-51-25.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Walk_Fwd_Rifle_Ironsights_2017-10-28-22-51-26.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Walk_Lt_Rifle_Ironsights_2017-10-28-22-51-26.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Backup/Walk_Rt_Rifle_Ironsights_2017-10-28-22-51-26.uasset
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Config/CrashReportClient/UE4CC-Windows-4A8D268F47892E3F0F877E86D0AE8474/
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Config/CrashReportClient/UE4CC-Windows-6956F09E49F901D744CE8BBA731F76F8/
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Config/CrashReportClient/UE4CC-Windows-DC9DC103423D20FA87F5D68E168CEA49/
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Logs/Virtus_FPS-backup-2017.10.28-21.07.15.log
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Logs/Virtus_FPS-backup-2017.10.28-21.11.25.log
+[2017.10.28-20.56.25:777][  0]SourceControl: 	Virtus_FPS/Saved/Logs/Virtus_FPS-backup-2017.10.28-22.55.59.log
+[2017.10.28-20.56.25:778][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.28-20.56.25:798][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.28-20.56.25:800][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.28-20.56.25:807][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.28-20.56.26:026][  1]LogRenderer: Reallocating scene render targets to support 780x784 Format 10 NumSamples 1 (Frame:1).
+[2017.10.28-20.56.26:053][  1]LogAssetRegistry: Asset discovery search completed in 19.2462 seconds
+[2017.10.28-20.56.26:057][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.10.28-20.56.26:057][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2017.10.28-20.56.26:786][ 36]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.28-20.56.31:030][314]LogFileCache: Retrieving MD5 hashes for directory 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/' took 5.29s
+[2017.10.28-20.56.50:324][527]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.28-20.56.50:477][527]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.10.28-20.56.50:669][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.10.28-20.56.50:739][527]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.10.28-20.56.51:011][527]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.28-20.56.51:118][527]LogScript: Warning: Accessed None trying to read property Pawn
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:0330
+[2017.10.28-20.56.51:118][527]LogScript: Warning: Accessed None trying to read property Pawn
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:0362
+[2017.10.28-20.56.51:118][527]LogScript: Warning: Accessed None trying to read property Pawn
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:03C8
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property Pawn
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:0495
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property BP_Char_Soldier
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:0506
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property BP_Char_Soldier
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:056B
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property BP_Char_Soldier
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:059D
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property BP_Char_Soldier
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:06E6
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property BP_Char_Soldier
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:0718
+[2017.10.28-20.56.51:119][527]LogScript: Warning: Accessed None trying to read property MovementComponent
+	BP_Anim_Soldier_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BP_Anim_Soldier_C_0
+	Function /Game/Logic/BP_Anim_Soldier.BP_Anim_Soldier_C:ExecuteUbergraph_BP_Anim_Soldier:0826
+[2017.10.28-20.56.51:289][527]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2017.10.28-20.56.51:335][527]LogRenderer: Reallocating scene render targets to support 1040x784 Format 10 NumSamples 1 (Frame:1).
+[2017.10.28-20.56.51:335][527]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.10.28-20.57.00:846][824]LogSavePackage: Save=19.22ms
+[2017.10.28-20.57.00:846][824]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/BS_Aim_Stand_Rifle_HipCE6DE1034A213FC695343A94BB9BCBBA.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset'
+[2017.10.28-20.57.00:848][824]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/BS_Aim_Stand_Rifle_Hip.uasset
+[2017.10.28-20.57.16:670][572]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.57.16:670][572]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center1.uasset.
+[2017.10.28-20.57.16:670][572]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Left_Center1 : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.57.16:670][572]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.57.16:670][572]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center1.uasset.
+[2017.10.28-20.57.16:671][572]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.57.16:672][572]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Left_Center1
+[2017.10.28-20.57.16:672][572]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.57.16:672][572]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Center1.Aim_Left_Center1
+[2017.10.28-20.57.16:674][572]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.57.16:675][572]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center1.uasset.
+[2017.10.28-20.57.16:675][572]LoadErrors: Error: /Game/Animations/StarterPack/AimPoses/Aim_Right_Center1 : Can't find file for asset. /Game/Animations/Idle_Rifle_Hip
+[2017.10.28-20.57.16:675][572]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.57.16:675][572]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center1.uasset.
+[2017.10.28-20.57.16:676][572]LogLinker: Warning: Can't find file '/Game/Animations/Idle_Rifle_Hip'
+[2017.10.28-20.57.16:676][572]LoadErrors: Failed to load /Game/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip Referenced by Aim_Right_Center1
+[2017.10.28-20.57.16:676][572]LogLinker: Warning: Can't find file for asset '/Game/Animations/Idle_Rifle_Hip' while loading NULL.
+[2017.10.28-20.57.16:677][572]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Center1.Aim_Right_Center1
+[2017.10.28-20.57.34:793][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center.Aim_Center
+[2017.10.28-20.57.34:797][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center_Down.Aim_Center_Down
+[2017.10.28-20.57.34:800][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center_Up.Aim_Center_Up
+[2017.10.28-20.57.34:803][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Center.Aim_Left_Center
+[2017.10.28-20.57.34:806][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Center1.Aim_Left_Center1
+[2017.10.28-20.57.34:810][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Down.Aim_Left_Down
+[2017.10.28-20.57.34:814][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Up.Aim_Left_Up
+[2017.10.28-20.57.34:817][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Center.Aim_Right_Center
+[2017.10.28-20.57.34:821][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Center1.Aim_Right_Center1
+[2017.10.28-20.57.34:835][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Down.Aim_Right_Down
+[2017.10.28-20.57.34:839][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Up.Aim_Right_Up
+[2017.10.28-20.57.34:843][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Space_Hip.Aim_Space_Hip
+[2017.10.28-20.57.34:855][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2017.10.28-20.57.46:264][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center.Aim_Center
+[2017.10.28-20.57.46:266][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center_Down.Aim_Center_Down
+[2017.10.28-20.57.46:269][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Center_Up.Aim_Center_Up
+[2017.10.28-20.57.46:271][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Center.Aim_Left_Center
+[2017.10.28-20.57.46:274][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Center1.Aim_Left_Center1
+[2017.10.28-20.57.46:277][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Down.Aim_Left_Down
+[2017.10.28-20.57.46:280][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Left_Up.Aim_Left_Up
+[2017.10.28-20.57.46:282][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Center.Aim_Right_Center
+[2017.10.28-20.57.46:285][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Center1.Aim_Right_Center1
+[2017.10.28-20.57.46:297][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Down.Aim_Right_Down
+[2017.10.28-20.57.46:299][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Right_Up.Aim_Right_Up
+[2017.10.28-20.57.46:302][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Space_Hip.Aim_Space_Hip
+[2017.10.28-20.57.46:312][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/StarterPack/AimPoses/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2017.10.28-20.57.49:439][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/StarterPack/AimPoses/Aim_Center" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center.uasset" SILENT=true
+[2017.10.28-20.57.49:482][897]LogSavePackage: Save=18.74ms
+[2017.10.28-20.57.49:482][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Center9D02CC374E702695CEDDBD90700E9966.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center.uasset'
+[2017.10.28-20.57.49:484][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center.uasset
+[2017.10.28-20.57.49:562][897]LogSavePackage: Save=18.27ms
+[2017.10.28-20.57.49:562][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Center_Down069A486B4F9A0E68A40F029E7B194F5E.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Down.uasset'
+[2017.10.28-20.57.49:564][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Down.uasset
+[2017.10.28-20.57.49:592][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/StarterPack/AimPoses/Aim_Center_Up" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Up.uasset" SILENT=true
+[2017.10.28-20.57.49:634][897]LogSavePackage: Save=19.00ms
+[2017.10.28-20.57.49:634][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Center_Up643DDD3C4952E8ED12B26EBC9C057267.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Up.uasset'
+[2017.10.28-20.57.49:636][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Center_Up.uasset
+[2017.10.28-20.57.49:713][897]LogSavePackage: Save=19.39ms
+[2017.10.28-20.57.49:714][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Left_Center3829BC694A091A1B168E248A96795988.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center.uasset'
+[2017.10.28-20.57.49:716][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center.uasset
+[2017.10.28-20.57.49:738][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/StarterPack/AimPoses/Aim_Left_Down" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Down.uasset" SILENT=true
+[2017.10.28-20.57.49:784][897]LogSavePackage: Save=22.04ms
+[2017.10.28-20.57.49:785][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Left_DownFC438DD146007C27BFA1C89AD09F635B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Down.uasset'
+[2017.10.28-20.57.49:787][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Down.uasset
+[2017.10.28-20.57.49:809][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/StarterPack/AimPoses/Aim_Left_Up" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Up.uasset" SILENT=true
+[2017.10.28-20.57.49:850][897]LogSavePackage: Save=18.49ms
+[2017.10.28-20.57.49:850][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Left_UpD5B81EEC40669594AA861797838BD458.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Up.uasset'
+[2017.10.28-20.57.49:853][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Up.uasset
+[2017.10.28-20.57.49:929][897]LogSavePackage: Save=18.09ms
+[2017.10.28-20.57.49:929][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Right_Center8D110F3D47298FFFA4CDEAAD173EB9E8.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center.uasset'
+[2017.10.28-20.57.49:931][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center.uasset
+[2017.10.28-20.57.49:998][897]LogSavePackage: Save=19.90ms
+[2017.10.28-20.57.49:999][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Right_Down3F66A7F148BC442B676F35A3F4DD2E6F.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Down.uasset'
+[2017.10.28-20.57.50:001][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Down.uasset
+[2017.10.28-20.57.50:023][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/StarterPack/AimPoses/Aim_Right_Up" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Up.uasset" SILENT=true
+[2017.10.28-20.57.50:065][897]LogSavePackage: Save=17.64ms
+[2017.10.28-20.57.50:065][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Right_Up68D9D5E741AEB0D3AA9C80A7C1A586B2.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Up.uasset'
+[2017.10.28-20.57.50:068][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Up.uasset
+[2017.10.28-20.57.50:137][897]LogSavePackage: Save=17.57ms
+[2017.10.28-20.57.50:137][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Left_Center15CB5FA6941BDF1CB338094B4AF81D99B.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center1.uasset'
+[2017.10.28-20.57.50:140][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Left_Center1.uasset
+[2017.10.28-20.57.50:203][897]LogSavePackage: Save=18.90ms
+[2017.10.28-20.57.50:203][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Right_Center1160128474FE725B26189F48D2FF237E3.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center1.uasset'
+[2017.10.28-20.57.50:206][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Right_Center1.uasset
+[2017.10.28-20.57.50:228][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/StarterPack/AimPoses/Aim_Space_Hip" FILE="D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Hip.uasset" SILENT=true
+[2017.10.28-20.57.50:271][897]LogSavePackage: Save=19.24ms
+[2017.10.28-20.57.50:271][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Space_HipE3CFE5A3439F5A968F952F80A43E537D.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Hip.uasset'
+[2017.10.28-20.57.50:273][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Hip.uasset
+[2017.10.28-20.57.50:345][897]LogSavePackage: Save=19.61ms
+[2017.10.28-20.57.50:345][897]LogSavePackage: Moving 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Aim_Space_Ironsights0C9E694049BF334813F86893B11C70EA.tmp' to 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Ironsights.uasset'
+[2017.10.28-20.57.50:347][897]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Animations/StarterPack/AimPoses/Aim_Space_Ironsights.uasset
+[2017.10.28-20.57.56:851][214]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.10.28-20.57.56:916][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.10.28-20.57.57:442][214]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.10.28-20.58.16:814][188]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.28-20.58.17:034][189]Cmd: QUIT_EDITOR
+[2017.10.28-20.58.17:077][189]LogExit: Preparing to exit.
+[2017.10.28-20.58.18:085][189]LogExit: Editor shut down
+[2017.10.28-20.58.18:096][189]LogExit: Transaction tracking system shut down
+[2017.10.28-20.58.18:330][189]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.28-20.58.18:330][189]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/' was aborted.
+[2017.10.28-20.58.18:330][189]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.28-20.58.18:330][189]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.28-20.58.18:330][189]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.28-20.58.18:397][189]LogExit: Object subsystem successfully closed.
+[2017.10.28-20.58.18:425][189]LogD3D11RHI: Shutdown
+[2017.10.28-20.58.18:425][189]LogD3D11RHI: CleanupD3DDevice
+[2017.10.28-20.58.18:596][189]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.28-20.58.18:618][189]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (536)
+[2017.10.28-20.58.18:618][189]LogModuleManager: Shutting down and abandoning module SkeletonEditor (534)
+[2017.10.28-20.58.18:619][189]LogModuleManager: Shutting down and abandoning module AnimationEditor (532)
+[2017.10.28-20.58.18:619][189]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.28-20.58.18:619][189]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.28-20.58.18:619][189]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.28-20.58.18:619][189]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.28-20.58.18:620][189]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.28-20.58.18:620][189]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.28-20.58.18:620][189]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.28-20.58.18:620][189]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Collections/' was aborted.
+[2017.10.28-20.58.18:620][189]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Content/Developers/AMD/Collections/' was aborted.
+[2017.10.28-20.58.18:620][189]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/Virtus_FPS/Virtus_FPS/Saved/Collections/' was aborted.
+[2017.10.28-20.58.18:620][189]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.28-20.58.18:620][189]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.28-20.58.18:620][189]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.28-20.58.18:621][189]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.28-20.58.18:622][189]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.28-20.58.18:622][189]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.28-20.58.18:622][189]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.28-20.58.18:622][189]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.28-20.58.19:340][189]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.28-20.58.19:342][189]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.28-20.58.19:343][189]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.28-20.58.19:398][189]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.28-20.58.19:399][189]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.28-20.58.19:400][189]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.28-20.58.19:577][189]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.28-20.58.19:577][189]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.28-20.58.19:577][189]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.28-20.58.19:577][189]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.28-20.58.19:577][189]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.28-20.58.19:577][189]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.28-20.58.19:578][189]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.28-20.58.19:579][189]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.28-20.58.19:580][189]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.28-20.58.19:580][189]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.28-20.58.19:580][189]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.28-20.58.19:581][189]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.28-20.58.19:682][189]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.28-20.58.19:783][189]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.28-20.58.19:783][189]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.28-20.58.19:783][189]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.28-20.58.19:783][189]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.28-20.58.19:783][189]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.28-20.58.19:783][189]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.28-20.58.19:784][189]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.28-20.58.19:785][189]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.28-20.58.19:788][189]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.28-20.58.19:789][189]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.28-20.58.19:793][189]LogDerivedDataCache: Shutdown
+[2017.10.28-20.58.19:793][189]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.28-20.58.19:794][189]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.28-20.58.19:795][189]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.28-20.58.19:795][189]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.28-20.58.19:795][189]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.28-20.58.19:795][189]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5F520F7-4F44-67C5-85CD-5197FDD9C245%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=eb99d1e348f35ee33140d1b85cecba9a%7C0898c82567a74806a501c7973750ceef%7C51c08d98-04aa-4f88-8482-4c0b4dda356e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.28-20.58.19:818][189]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.28-20.58.19:821][189]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.28-20.58.19:823][189]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.28-20.58.19:831][189]LogExit: Exiting.
+[2017.10.28-20.58.19:859][189]Log file closed, 10/28/17 22:58:19
